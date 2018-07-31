@@ -1,0 +1,45 @@
+2018-07-29 18:38:58.936 - Thread:   1 ->  Log Started
+2018-07-29 18:38:58.937 - Thread:   1 ->  Timezone (local - UTC): 2h
+2018-07-29 18:38:58.937 - Thread:   1 ->  App Version: 01_187_089
+2018-07-29 18:38:58.938 - Thread:   1 ->  Space Engineers DS GUI Started
+2018-07-29 18:38:58.938 - Thread:   1 ->  Is Service DS: False
+2018-07-29 18:38:59.504 - Thread:   5 ->  Loading available saves - START
+2018-07-29 18:38:59.504 - Thread:  12 ->  Loading available saves - START
+2018-07-29 18:38:59.510 - Thread:   5 ->     GetWorldInfoFromDirectory (Exists: True) 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves'
+2018-07-29 18:38:59.510 - Thread:  12 ->     GetWorldInfoFromDirectory (Exists: True) 'D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds'
+2018-07-29 18:38:59.520 - Thread:   5 ->  Loading available saves - END
+2018-07-29 18:38:59.539 - Thread:  12 ->  Loading available saves - END
+2018-07-29 18:38:59.571 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - START
+2018-07-29 18:38:59.576 - Thread:   1 ->     cc8b42d526a05973adca2029894f92a894d55acd
+2018-07-29 18:39:00.081 - Thread:   1 ->     Loading scenarios
+2018-07-29 18:39:00.129 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - END
+2018-07-29 18:39:40.020 - Thread:   1 ->  Start Console
+2018-07-29 18:39:40.020 - Thread:   1 ->  Command Line: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\DedicatedServer64\SpaceEngineersDedicated.exe
+2018-07-29 18:39:40.020 - Thread:   1 ->  Arguments:  -noconsole -ignorelastsession -checkAlive
+2018-07-29 18:41:09.265 - Thread:   1 ->  Stop Server
+2018-07-29 18:41:12.023 - Thread:   1 ->  Server Stopped
+2018-07-29 18:41:12.077 - Thread:   6 ->  Loading available saves - START
+2018-07-29 18:41:12.077 - Thread:   5 ->  Loading available saves - START
+2018-07-29 18:41:12.079 - Thread:   6 ->     GetWorldInfoFromDirectory (Exists: True) 'D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds'
+2018-07-29 18:41:12.079 - Thread:   5 ->     GetWorldInfoFromDirectory (Exists: True) 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves'
+2018-07-29 18:41:12.080 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - START
+2018-07-29 18:41:12.080 - Thread:   5 ->  Loading available saves - END
+2018-07-29 18:41:12.106 - Thread:   1 ->     cc8b42d526a05973adca2029894f92a894d55acd
+2018-07-29 18:41:12.219 - Thread:   6 ->  Loading available saves - END
+2018-07-29 18:41:12.272 - Thread:   1 ->     Loading scenarios
+2018-07-29 18:41:12.272 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - END
+2018-07-29 18:48:33.081 - Thread:   1 ->  Start Console
+2018-07-29 18:48:33.081 - Thread:   1 ->  Command Line: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\DedicatedServer64\SpaceEngineersDedicated.exe
+2018-07-29 18:48:33.081 - Thread:   1 ->  Arguments:  -noconsole -ignorelastsession -checkAlive
+2018-07-29 20:04:56.279 - Thread:   1 ->  Stop Server
+2018-07-29 20:05:05.052 - Thread:   1 ->  Server Stopped
+2018-07-29 20:05:05.088 - Thread:  12 ->  Loading available saves - START
+2018-07-29 20:05:05.088 - Thread:  11 ->  Loading available saves - START
+2018-07-29 20:05:05.089 - Thread:  12 ->     GetWorldInfoFromDirectory (Exists: True) 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves'
+2018-07-29 20:05:05.089 - Thread:  11 ->     GetWorldInfoFromDirectory (Exists: True) 'D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds'
+2018-07-29 20:05:05.092 - Thread:  12 ->  Loading available saves - END
+2018-07-29 20:05:05.094 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - START
+2018-07-29 20:05:05.142 - Thread:   1 ->     cc8b42d526a05973adca2029894f92a894d55acd
+2018-07-29 20:05:05.241 - Thread:  11 ->  Loading available saves - END
+2018-07-29 20:05:05.294 - Thread:   1 ->     Loading scenarios
+2018-07-29 20:05:05.296 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - END

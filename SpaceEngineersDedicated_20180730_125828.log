@@ -1,0 +1,1359 @@
+2018-07-30 12:58:28.237 - Thread:   1 ->  Log Started
+2018-07-30 12:58:28.238 - Thread:   1 ->  Timezone (local - UTC): 2h
+2018-07-30 12:58:28.238 - Thread:   1 ->  App Version: 01_187_089
+2018-07-30 12:58:28.239 - Thread:   1 ->  Steam build: Always true
+2018-07-30 12:58:28.239 - Thread:   1 ->  Is official: True [NO][IS][NAMP]
+2018-07-30 12:58:28.239 - Thread:   1 ->  Environment.ProcessorCount: 8
+2018-07-30 12:58:28.286 - Thread:   1 ->  Environment.OSVersion: Microsoft Windows 10 Famille (Microsoft Windows NT 6.2.9200.0)
+2018-07-30 12:58:28.286 - Thread:   1 ->  Environment.CommandLine: "D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\DedicatedServer64\SpaceEngineersDedicated.exe"  -noconsole -ignorelastsession -checkAlive
+2018-07-30 12:58:28.286 - Thread:   1 ->  Environment.Is64BitProcess: True
+2018-07-30 12:58:28.286 - Thread:   1 ->  Environment.Is64BitOperatingSystem: True
+2018-07-30 12:58:28.287 - Thread:   1 ->  Environment.Version: 4.6.2 or later (461308)
+2018-07-30 12:58:28.287 - Thread:   1 ->  Environment.CurrentDirectory: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\DedicatedServer64
+2018-07-30 12:58:29.311 - Thread:   1 ->  CPU Info: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+2018-07-30 12:58:29.311 - Thread:   1 ->  IntPtr.Size: 8
+2018-07-30 12:58:29.311 - Thread:   1 ->  Default Culture: fr-FR
+2018-07-30 12:58:29.311 - Thread:   1 ->  Default UI Culture: fr-FR
+2018-07-30 12:58:29.311 - Thread:   1 ->  IsAdmin: True
+2018-07-30 12:58:29.667 - Thread:   1 ->  MySandboxGame.Constructor() - START
+2018-07-30 12:58:29.671 - Thread:   1 ->     MyScreenManager()
+2018-07-30 12:58:29.671 - Thread:   1 ->     Game dir: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\DedicatedServer64
+2018-07-30 12:58:29.671 - Thread:   1 ->     Content dir: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content
+2018-07-30 12:58:29.672 - Thread:   1 ->     Found processor count: 8
+2018-07-30 12:58:29.673 - Thread:   1 ->     Using processor count: 8
+2018-07-30 12:58:31.512 - Thread:   1 ->     Preallocate - START
+2018-07-30 12:58:31.526 - Thread:   1 ->        MySpaceBuildComponent - START
+2018-07-30 12:58:31.526 - Thread:   1 ->        MySpaceBuildComponent - END
+2018-07-30 12:58:31.526 - Thread:   1 ->        MySpaceWorldGenerator - START
+2018-07-30 12:58:31.536 - Thread:   7 ->  MyDefinitionManager.LoadScenarios() - START
+2018-07-30 12:58:31.542 - Thread:   7 ->     cc8b42d526a05973adca2029894f92a894d55acd
+2018-07-30 12:58:31.554 - Thread:   1 ->        MySpaceWorldGenerator - END
+2018-07-30 12:58:31.554 - Thread:   1 ->        MyEntities - START
+2018-07-30 12:58:31.679 - Thread:   1 ->        MyEntities - END
+2018-07-30 12:58:31.680 - Thread:   1 ->        MyObjectBuilder_Base - START
+2018-07-30 12:58:31.680 - Thread:   1 ->        MyObjectBuilder_Base - END
+2018-07-30 12:58:31.680 - Thread:   1 ->        MyTransparentGeometry - START
+2018-07-30 12:58:31.695 - Thread:   1 ->        MyTransparentGeometry - END
+2018-07-30 12:58:31.695 - Thread:   1 ->        MyCubeGridDeformationTables - START
+2018-07-30 12:58:31.722 - Thread:   1 ->        MyCubeGridDeformationTables - END
+2018-07-30 12:58:31.723 - Thread:   1 ->        MyMath - START
+2018-07-30 12:58:31.723 - Thread:   1 ->        MyMath - END
+2018-07-30 12:58:31.723 - Thread:   1 ->        MySimpleObjectDraw - START
+2018-07-30 12:58:31.725 - Thread:   1 ->        MySimpleObjectDraw - END
+2018-07-30 12:58:31.735 - Thread:   1 ->        MyDefinitionManager - START
+2018-07-30 12:58:31.735 - Thread:   1 ->        MyDefinitionManager - END
+2018-07-30 12:58:31.736 - Thread:   1 ->        MyCubeGridDefinitions - START
+2018-07-30 12:58:31.797 - Thread:   1 ->        MyCubeGridDefinitions - END
+2018-07-30 12:58:31.813 - Thread:   1 ->        MyAIActionsParser - START
+2018-07-30 12:58:31.813 - Thread:   1 ->        MyAIActionsParser - END
+2018-07-30 12:58:31.813 - Thread:   1 ->        MyMultiplayerBase - START
+2018-07-30 12:58:31.826 - Thread:   1 ->        MyMultiplayerBase - END
+2018-07-30 12:58:31.826 - Thread:   1 ->        MyMultiplayerServerBase - START
+2018-07-30 12:58:31.826 - Thread:   1 ->        MyMultiplayerServerBase - END
+2018-07-30 12:58:31.826 - Thread:   1 ->        MyDedicatedServerBase - START
+2018-07-30 12:58:31.827 - Thread:   1 ->        MyDedicatedServerBase - END
+2018-07-30 12:58:31.827 - Thread:   1 ->        MyMultiplayerClientBase - START
+2018-07-30 12:58:31.827 - Thread:   1 ->        MyMultiplayerClientBase - END
+2018-07-30 12:58:31.827 - Thread:   1 ->        MyMultiplayerLobbyClient - START
+2018-07-30 12:58:31.827 - Thread:   1 ->        MyMultiplayerLobbyClient - END
+2018-07-30 12:58:31.827 - Thread:   1 ->        MyServerDebugCommands - START
+2018-07-30 12:58:31.834 - Thread:   1 ->        MyServerDebugCommands - END
+2018-07-30 12:58:31.834 - Thread:   1 ->        MyClientDebugCommands - START
+2018-07-30 12:58:31.836 - Thread:   1 ->        MyClientDebugCommands - END
+2018-07-30 12:58:31.836 - Thread:   1 ->        MyMultiplayerClient - START
+2018-07-30 12:58:31.836 - Thread:   1 ->        MyMultiplayerClient - END
+2018-07-30 12:58:31.837 - Thread:   1 ->        MyMultiplayerLobby - START
+2018-07-30 12:58:31.837 - Thread:   1 ->        MyMultiplayerLobby - END
+2018-07-30 12:58:31.837 - Thread:   1 ->        MyDedicatedServer - START
+2018-07-30 12:58:31.837 - Thread:   1 ->        MyDedicatedServer - END
+2018-07-30 12:58:31.837 - Thread:   1 ->        MyAiTargetManager - START
+2018-07-30 12:58:31.837 - Thread:   1 ->        MyAiTargetManager - END
+2018-07-30 12:58:31.838 - Thread:   1 ->        MyGuiScreenAdminMenu - START
+2018-07-30 12:58:31.839 - Thread:   1 ->        MyGuiScreenAdminMenu - END
+2018-07-30 12:58:31.839 - Thread:   1 ->        MyEntityComponentsDebugDraw - START
+2018-07-30 12:58:31.839 - Thread:   1 ->        MyEntityComponentsDebugDraw - END
+2018-07-30 12:58:31.839 - Thread:   1 ->        MyChatHistory - START
+2018-07-30 12:58:31.839 - Thread:   1 ->        MyChatHistory - END
+2018-07-30 12:58:31.839 - Thread:   1 ->        MySyncDestructions - START
+2018-07-30 12:58:31.839 - Thread:   1 ->        MySyncDestructions - END
+2018-07-30 12:58:31.839 - Thread:   1 ->        MyGuiIngameScriptsPage - START
+2018-07-30 12:58:31.893 - Thread:   1 ->        MyGuiIngameScriptsPage - END
+2018-07-30 12:58:31.893 - Thread:   1 ->        MyCommandCharacter - START
+2018-07-30 12:58:31.899 - Thread:   1 ->        MyCommandCharacter - END
+2018-07-30 12:58:31.899 - Thread:   1 ->        MyCommandConsole - START
+2018-07-30 12:58:31.900 - Thread:   1 ->        MyCommandConsole - END
+2018-07-30 12:58:31.901 - Thread:   1 ->        MyCommandEntity - START
+2018-07-30 12:58:31.903 - Thread:   1 ->        MyCommandEntity - END
+2018-07-30 12:58:31.903 - Thread:   1 ->        MySyncScenario - START
+2018-07-30 12:58:31.903 - Thread:   1 ->        MySyncScenario - END
+2018-07-30 12:58:31.903 - Thread:   1 ->        MySyncEntity - START
+2018-07-30 12:58:31.903 - Thread:   1 ->        MySyncEntity - END
+2018-07-30 12:58:31.906 - Thread:   1 ->     Preallocate - END
+2018-07-30 12:58:31.909 - Thread:   1 ->     Bind IP : 0.0.0.0:27016
+2018-07-30 12:58:32.086 - Thread:   7 ->     Loading scenarios
+2018-07-30 12:58:32.129 - Thread:   7 ->  MyDefinitionManager.LoadScenarios() - END
+2018-07-30 12:58:37.805 - Thread:   1 ->     Server successfully started
+2018-07-30 12:58:37.806 - Thread:   1 ->     Product name: Space Engineers
+2018-07-30 12:58:37.806 - Thread:   1 ->     Desc: Space Engineers
+2018-07-30 12:58:37.806 - Thread:   1 ->     Public IP: 46.29.126.142
+2018-07-30 12:58:37.806 - Thread:   1 ->     Steam ID: 90116617283989514
+2018-07-30 12:58:37.824 - Thread:   1 ->     MyCampaignManager.Constructor() - START
+2018-07-30 12:58:37.993 - Thread:   1 ->     MyCampaignManager.Constructor() - END
+2018-07-30 12:58:37.993 - Thread:   1 ->  MySandboxGame.Constructor() - END
+2018-07-30 12:58:37.993 - Thread:   1 ->  Server Name: Mika
+2018-07-30 12:58:37.994 - Thread:   1 ->  World Name: Atlantis
+2018-07-30 12:58:38.095 - Thread:  25 ->  Remote Server Listener started. Listening on port 8080
+2018-07-30 12:58:38.256 - Thread:   1 ->  Auto Restart Enabled
+2018-07-30 12:58:38.275 - Thread:   1 ->  MySandboxGame.Initialize() - START
+2018-07-30 12:58:38.453 - Thread:   1 ->     MyGuiGameControlsHelpers()
+2018-07-30 12:58:38.593 - Thread:   1 ->     Havok: Physics.Init
+2018-07-30 12:58:38.624 - Thread:   1 ->     Havok: Version: Release(0), 1800, [S]
+2018-07-30 12:58:38.732 - Thread:   1 ->     HkGameName: SpaceEngineers Release
+2018-07-30 12:58:38.754 - Thread:   1 ->     MySandboxGame.LoadData() - START
+2018-07-30 12:58:38.759 - Thread:   1 ->        MyDefinitionManager.PreloadDefinitions() - START
+2018-07-30 12:58:39.031 - Thread:   1 ->        MyDefinitionManager.PreloadDefinitions() - END
+2018-07-30 12:58:39.134 - Thread:   1 ->     MySandboxGame.LoadData() - END
+2018-07-30 12:58:39.160 - Thread:  19 ->  MyDefinitionManager.PrepareBaseDefinitions() - START
+2018-07-30 12:58:43.551 - Thread:   1 ->     MyGuiScreenGDPR.ctor START
+2018-07-30 12:58:43.554 - Thread:   1 ->     MyGuiScreenWelcomeScreen.ctor START
+2018-07-30 12:58:43.909 - Thread:   1 ->     Downloading world mods - START
+2018-07-30 12:58:43.910 - Thread:   1 ->     Downloading world mods - END
+2018-07-30 12:58:43.940 - Thread:   1 ->     Loading session: C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves\Atlantis
+2018-07-30 12:58:44.824 - Thread:   1 ->     GC Memory: 73,761,688 B
+2018-07-30 12:58:44.831 - Thread:   1 ->     Process Memory: 240,300,032 B
+2018-07-30 12:58:44.833 - Thread:   1 ->     Experimental mode: Yes
+2018-07-30 12:58:44.833 - Thread:   1 ->     Experimental mode reason: InsufficientHardware
+2018-07-30 12:58:47.781 - Thread:   1 ->     MyScriptManager.LoadData() - START
+2018-07-30 12:58:47.803 - Thread:   1 ->     MyScriptManager.LoadData() - END
+2018-07-30 12:58:47.810 - Thread:   1 ->     MyDefinitionManager.LoadData() - START
+2018-07-30 12:58:48.235 - Thread:  19 ->  MyDefinitionManager.PrepareBaseDefinitions() - END
+2018-07-30 12:58:48.237 - Thread:   1 ->     MyDefinitionManager.LoadScenarios() - START
+2018-07-30 12:58:48.238 - Thread:   1 ->        cc8b42d526a05973adca2029894f92a894d55acd
+2018-07-30 12:58:48.395 - Thread:   1 ->        Loading scenarios
+2018-07-30 12:58:48.397 - Thread:   1 ->     MyDefinitionManager.LoadScenarios() - END
+2018-07-30 12:58:48.397 - Thread:   1 ->        List of used mods (0) - START
+2018-07-30 12:58:48.397 - Thread:   1 ->        List of used mods - END
+2018-07-30 12:58:48.415 - Thread:   1 ->        Loading behaviors
+2018-07-30 12:58:48.417 - Thread:   1 ->        Loading ammo magazines
+2018-07-30 12:58:48.420 - Thread:   1 ->        Loading ammo definitions
+2018-07-30 12:58:48.423 - Thread:   1 ->        Loading animations
+2018-07-30 12:58:48.426 - Thread:   1 ->        Loading animations
+2018-07-30 12:58:48.428 - Thread:   1 ->        Loading sound definitions
+2018-07-30 12:58:48.431 - Thread:   1 ->        Loading sound definitions
+2018-07-30 12:58:48.432 - Thread:   1 ->        Loading sound definitions
+2018-07-30 12:58:48.432 - Thread:   1 ->        Loading sound definitions
+2018-07-30 12:58:48.433 - Thread:   1 ->        Loading sound definitions
+2018-07-30 12:58:48.433 - Thread:   1 ->        Loading category classes
+2018-07-30 12:58:48.434 - Thread:   1 ->        Loading blueprint classes
+2018-07-30 12:58:48.436 - Thread:   1 ->        Loading blueprint class entries
+2018-07-30 12:58:48.437 - Thread:   1 ->        Loading blueprints
+2018-07-30 12:58:48.439 - Thread:   1 ->        Loading agent definitions
+2018-07-30 12:58:48.441 - Thread:   1 ->        Loading character definitions
+2018-07-30 12:58:48.456 - Thread:   1 ->        Loading character definitions
+2018-07-30 12:58:48.457 - Thread:   1 ->        Loading components
+2018-07-30 12:58:48.458 - Thread:   1 ->        Loading configuration
+2018-07-30 12:58:48.460 - Thread:   1 ->        Loading container types
+2018-07-30 12:58:48.464 - Thread:   1 ->        Loading block positions
+2018-07-30 12:58:48.468 - Thread:   1 ->        Loading curve definitions
+2018-07-30 12:58:48.472 - Thread:   1 ->        Loading debris
+2018-07-30 12:58:48.473 - Thread:   1 ->        Loading environment items entries
+2018-07-30 12:58:48.474 - Thread:   1 ->        Loading decal global definitions
+2018-07-30 12:58:48.474 - Thread:   1 ->        Loading decal definitions
+2018-07-30 12:58:48.478 - Thread:   1 ->        Loading drone behaviors
+2018-07-30 12:58:48.482 - Thread:   1 ->        Loading edges
+2018-07-30 12:58:48.483 - Thread:   1 ->        Loading emissive color definitions
+2018-07-30 12:58:48.487 - Thread:   1 ->        Loading emissive color default states
+2018-07-30 12:58:48.490 - Thread:   1 ->        Loading entity components
+2018-07-30 12:58:48.499 - Thread:   1 ->        Loading component containers
+2018-07-30 12:58:48.513 - Thread:   1 ->        Loading environment items entries
+2018-07-30 12:58:48.513 - Thread:   1 ->        Loading factions
+2018-07-30 12:58:48.515 - Thread:   1 ->        Loading flare definitions
+2018-07-30 12:58:48.527 - Thread:   1 ->        Loading gas property definitions
+2018-07-30 12:58:48.528 - Thread:   1 ->        Loading event definitions
+2018-07-30 12:58:48.532 - Thread:   1 ->        Loading physical items
+2018-07-30 12:58:48.539 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.539 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\HelmetVisorBottomLeft.png
+2018-07-30 12:58:48.540 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.540 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\HelmetVisorBottomRight.png
+2018-07-30 12:58:48.540 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.540 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\HelmetVisorTopLeft.png
+2018-07-30 12:58:48.541 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.541 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\HelmetVisorTopRight.png
+2018-07-30 12:58:48.541 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.541 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\HelmetVisorGlass.png
+2018-07-30 12:58:48.541 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.541 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\HelmetVisorBottom.png
+2018-07-30 12:58:48.542 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.542 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\BackgroundGradient.png
+2018-07-30 12:58:48.542 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.542 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\leftplate.png
+2018-07-30 12:58:48.542 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.542 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\rightplate.png
+2018-07-30 12:58:48.543 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.543 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\centerplate.png
+2018-07-30 12:58:48.543 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.543 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\ToolbarColorVariant.png
+2018-07-30 12:58:48.543 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.543 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gravityindicatorcirclesmall.png
+2018-07-30 12:58:48.544 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.544 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\f1icon.png
+2018-07-30 12:58:48.544 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.544 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gravityindicatorcirclelarge.png
+2018-07-30 12:58:48.544 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.544 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gravityindicatorfill.png
+2018-07-30 12:58:48.545 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.545 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\playerhelmeton.png
+2018-07-30 12:58:48.545 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.545 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\playerhelmetoff.png
+2018-07-30 12:58:48.545 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.545 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\jetpack.png
+2018-07-30 12:58:48.545 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.545 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\jetpackoff.png
+2018-07-30 12:58:48.546 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.546 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\magboot.png
+2018-07-30 12:58:48.546 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.546 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\light.png
+2018-07-30 12:58:48.546 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.546 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\playerbroadcastingon.png
+2018-07-30 12:58:48.546 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.547 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\playerbroadcastingoff.png
+2018-07-30 12:58:48.547 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.547 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\handbrake.png
+2018-07-30 12:58:48.547 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.547 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\remotecontrolon.png
+2018-07-30 12:58:48.547 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.547 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gridbroadcastingon.png
+2018-07-30 12:58:48.548 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.548 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gridbroadcastingoff.png
+2018-07-30 12:58:48.548 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.548 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gridpower.png
+2018-07-30 12:58:48.548 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.549 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\iconsbackground.png
+2018-07-30 12:58:48.549 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.549 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\cockpitbuildmode.png
+2018-07-30 12:58:48.549 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.549 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\suffocating.png
+2018-07-30 12:58:48.550 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.550 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\healthlow.png
+2018-07-30 12:58:48.550 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.550 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\capacity.png
+2018-07-30 12:58:48.550 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.551 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\healthicon.png
+2018-07-30 12:58:48.551 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.551 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\oxygenicon.png
+2018-07-30 12:58:48.551 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.551 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\energyicon.png
+2018-07-30 12:58:48.552 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.552 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\hydrogenicon.png
+2018-07-30 12:58:48.552 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.552 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\mass.png
+2018-07-30 12:58:48.552 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.552 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\toolbarvarianticon.png
+2018-07-30 12:58:48.552 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.553 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\progressbarbackground.png
+2018-07-30 12:58:48.553 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.553 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\progressbarbackgroundmirrored.png
+2018-07-30 12:58:48.553 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.553 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\progressbar.png
+2018-07-30 12:58:48.553 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.553 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\progressbarmirrored.png
+2018-07-30 12:58:48.554 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.554 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\bottle.png
+2018-07-30 12:58:48.554 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.554 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\toolbariteminactive.png
+2018-07-30 12:58:48.554 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.554 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\toolbaritemactive.png
+2018-07-30 12:58:48.554 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.555 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\toolbarpageinactive.png
+2018-07-30 12:58:48.555 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.555 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\toolbarpageactive.png
+2018-07-30 12:58:48.555 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.555 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\cubebuilder\gridmodelargehighl.png
+2018-07-30 12:58:48.556 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.557 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Fog_v4.dds
+2018-07-30 12:58:48.557 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.557 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gravityindicator.png
+2018-07-30 12:58:48.557 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.557 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\drillbarprogress.png
+2018-07-30 12:58:48.558 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.558 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\drillbarbackground.png
+2018-07-30 12:58:48.558 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.558 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\backpack.png
+2018-07-30 12:58:48.558 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.558 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\HelmetVisor.png
+2018-07-30 12:58:48.558 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.558 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\dampenersoff.png
+2018-07-30 12:58:48.559 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.559 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\dampenerson.png
+2018-07-30 12:58:48.559 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.559 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gridsizesmall.png
+2018-07-30 12:58:48.559 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.559 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gridsizelarge.png
+2018-07-30 12:58:48.560 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.560 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\blockrotate.png
+2018-07-30 12:58:48.560 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.560 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\gridmirror.png
+2018-07-30 12:58:48.560 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.560 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\battery.png
+2018-07-30 12:58:48.560 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.561 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\speedometercirclepart.png
+2018-07-30 12:58:48.561 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.561 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_left_top.dds
+2018-07-30 12:58:48.561 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.561 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_left_center.dds
+2018-07-30 12:58:48.561 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.561 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_left_bottom.dds
+2018-07-30 12:58:48.562 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.562 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_center_top.dds
+2018-07-30 12:58:48.562 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.562 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_center.dds
+2018-07-30 12:58:48.563 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.563 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_center_bottom.dds
+2018-07-30 12:58:48.563 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.563 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_right_top.dds
+2018-07-30 12:58:48.563 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.564 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_right_center.dds
+2018-07-30 12:58:48.564 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.564 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\rectangle_neutral_right_bottom.dds
+2018-07-30 12:58:48.564 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.564 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\reloadcircle_part.png
+2018-07-30 12:58:48.564 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.564 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\HUD\HudAtlas0.dds
+2018-07-30 12:58:48.565 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.565 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\combobox_default_highlight_left.dds
+2018-07-30 12:58:48.565 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.565 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\combobox_default_highlight_right.dds
+2018-07-30 12:58:48.565 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.566 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\combobox_default_highlight_center.dds
+2018-07-30 12:58:48.566 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.566 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\checkbox_unchecked_highlight.dds
+2018-07-30 12:58:48.566 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.567 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\HUD\marker_neutral.dds
+2018-07-30 12:58:48.567 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.567 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_close_symbol_bcg.dds
+2018-07-30 12:58:48.567 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.567 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_left_top.dds
+2018-07-30 12:58:48.567 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.568 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_left_bottom.dds
+2018-07-30 12:58:48.568 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.568 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_right_top.dds
+2018-07-30 12:58:48.568 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.568 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_right_bottom.dds
+2018-07-30 12:58:48.568 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.568 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_center_top.dds
+2018-07-30 12:58:48.569 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.569 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_center_bottom.dds
+2018-07-30 12:58:48.569 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.569 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_left_center.dds
+2018-07-30 12:58:48.569 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.569 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_right_center.dds
+2018-07-30 12:58:48.570 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.570 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\scrollable_list_WBorder_center.dds
+2018-07-30 12:58:48.570 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.570 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Screens\TabGScreen.dds
+2018-07-30 12:58:48.570 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.570 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Screens\CenterGScreen.dds
+2018-07-30 12:58:48.571 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.571 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\grid_item_highlight.dds
+2018-07-30 12:58:48.571 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.571 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\grid_item.dds
+2018-07-30 12:58:48.571 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.571 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\textbox_left_highlight.dds
+2018-07-30 12:58:48.571 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.571 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\textbox_right_highlight.dds
+2018-07-30 12:58:48.572 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.572 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\textbox_center_highlight.dds
+2018-07-30 12:58:48.572 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.572 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Screens\hud_bg_medium_default.dds
+2018-07-30 12:58:48.572 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.572 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_character_highlight.dds
+2018-07-30 12:58:48.572 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.572 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_grid.dds
+2018-07-30 12:58:48.572 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.573 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\screen_inventory_trash.dds
+2018-07-30 12:58:48.573 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.573 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\buttons\SquareButton.dds
+2018-07-30 12:58:48.573 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.573 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_storage.dds
+2018-07-30 12:58:48.574 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.574 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_system.dds
+2018-07-30 12:58:48.574 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.574 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_energy.dds
+2018-07-30 12:58:48.574 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.574 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_all.dds
+2018-07-30 12:58:48.574 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.575 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_character.dds
+2018-07-30 12:58:48.575 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.575 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_grid_highlight.dds
+2018-07-30 12:58:48.575 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.575 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_all_highlight.dds
+2018-07-30 12:58:48.575 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.575 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_storage_highlight.dds
+2018-07-30 12:58:48.575 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.576 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_system_highlight.dds
+2018-07-30 12:58:48.576 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.576 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_filter_energy_highlight.dds
+2018-07-30 12:58:48.576 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.576 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_close_symbol_highlight.dds
+2018-07-30 12:58:48.576 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.576 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\buttons\SquareButtonHighlight.dds
+2018-07-30 12:58:48.577 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.577 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\slider_rail_left_highlight.dds
+2018-07-30 12:58:48.577 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.577 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\slider_rail_right_highlight.dds
+2018-07-30 12:58:48.577 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.577 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\slider_rail_center_highlight.dds
+2018-07-30 12:58:48.577 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.577 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\slider_thumb_highlight.dds
+2018-07-30 12:58:48.578 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.578 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_hide.dds
+2018-07-30 12:58:48.578 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.578 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\switch_on_off_left_highlight.dds
+2018-07-30 12:58:48.578 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.578 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\switch_on_off_right.dds
+2018-07-30 12:58:48.578 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.578 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\switch_on_off_left.dds
+2018-07-30 12:58:48.579 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.579 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\switch_on_off_right_highlight.dds
+2018-07-30 12:58:48.579 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.579 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_unhide.dds
+2018-07-30 12:58:48.579 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.579 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\item_highlight_light.dds
+2018-07-30 12:58:48.579 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.579 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\checkbox_checked_highlight.dds
+2018-07-30 12:58:48.580 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.580 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\Gizmo\GizmoDrawLineGreen.dds
+2018-07-30 12:58:48.580 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.580 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\textures\gui\icons\hud 2017\toolbarcolorvariant.png
+2018-07-30 12:58:48.580 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.580 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\Gizmo\GizmoDrawLineRed.dds
+2018-07-30 12:58:48.580 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.581 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Screens\hud_bg_medium_red2.dds
+2018-07-30 12:58:48.581 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.581 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Screens\message_background_red.dds
+2018-07-30 12:58:48.581 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.581 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_red_highlight.dds
+2018-07-30 12:58:48.581 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.581 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\button_red.dds
+2018-07-30 12:58:48.582 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.582 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\hue_slider_rail_left.dds
+2018-07-30 12:58:48.582 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.582 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\hue_slider_rail_right.dds
+2018-07-30 12:58:48.582 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.582 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\hue_slider_rail_center.dds
+2018-07-30 12:58:48.582 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.582 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\hue_slider_thumb.dds
+2018-07-30 12:58:48.583 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.583 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\hue_slider_rail_left_highlight.dds
+2018-07-30 12:58:48.583 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.583 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\hue_slider_rail_right_highlight.dds
+2018-07-30 12:58:48.583 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.583 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\hue_slider_rail_center_highlight.dds
+2018-07-30 12:58:48.583 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.583 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Controls\hue_slider_thumb_highlight.dds
+2018-07-30 12:58:48.584 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.584 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Fog_v2.dds
+2018-07-30 12:58:48.584 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.584 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Fog_v3.dds
+2018-07-30 12:58:48.584 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.584 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\HUD\marker_enemy.dds
+2018-07-30 12:58:48.584 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.584 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\HUD\marker_friendly.dds
+2018-07-30 12:58:48.585 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.585 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\GravityHudHorizon.dds
+2018-07-30 12:58:48.585 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.585 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\Gui\Blood.dds
+2018-07-30 12:58:48.585 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.585 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\HUD\marker_gps.dds
+2018-07-30 12:58:48.585 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.586 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\HUD\marker_self.dds
+2018-07-30 12:58:48.586 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.586 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Fog_v1.dds
+2018-07-30 12:58:48.586 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.588 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\Notification_bg.png
+2018-07-30 12:58:48.588 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.588 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\HUD 2017\Notification_badge.png
+2018-07-30 12:58:48.588 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.589 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\ClaimItem.png
+2018-07-30 12:58:48.589 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.589 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\Skins\RecycleIcon_small.png
+2018-07-30 12:58:48.589 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.589 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\buttons\BluePrintCloud.png
+2018-07-30 12:58:48.589 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.589 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\star.png
+2018-07-30 12:58:48.590 - Thread:   1 ->        GuiTextures.sbc
+2018-07-30 12:58:48.590 - Thread:   1 ->        Failed to parse texture header! Texture: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Textures\GUI\Icons\warning.png
+2018-07-30 12:58:48.598 - Thread:   1 ->        Loading LCD texture categories
+2018-07-30 12:58:48.602 - Thread:   1 ->        Loading physical items
+2018-07-30 12:58:48.603 - Thread:   1 ->        Loading physical material properties
+2018-07-30 12:58:48.607 - Thread:   1 ->        Loading pirate antennas
+2018-07-30 12:58:48.615 - Thread:   1 ->        Loading resource distribution groups
+2018-07-30 12:58:48.615 - Thread:   1 ->        Loading shadow textures definitions
+2018-07-30 12:58:48.618 - Thread:   1 ->        Loading ship sound groups
+2018-07-30 12:58:48.645 - Thread:   1 ->        Loading ship sound groups
+2018-07-30 12:58:48.646 - Thread:   1 ->        Loading sound categories
+2018-07-30 12:58:48.648 - Thread:   1 ->        Loading stat definitions
+2018-07-30 12:58:48.649 - Thread:   1 ->        Loading grid creators
+2018-07-30 12:58:48.652 - Thread:   1 ->        Loading transparent material properties
+2018-07-30 12:58:48.653 - Thread:   1 ->        Loading voxel map storage definitions
+2018-07-30 12:58:48.654 - Thread:   1 ->        Loading voxel material definitions
+2018-07-30 12:58:48.661 - Thread:   1 ->        Loading voxel material definitions
+2018-07-30 12:58:48.665 - Thread:   1 ->        Audio effects definitions
+2018-07-30 12:58:48.671 - Thread:   1 ->        Loading environment items definitions
+2018-07-30 12:58:48.672 - Thread:   1 ->        Loading environment items definitions
+2018-07-30 12:58:48.673 - Thread:   1 ->        Loading physical material properties
+2018-07-30 12:58:48.678 - Thread:   1 ->        Loading particle effect definitions
+2018-07-30 12:58:48.761 - Thread:   1 ->        Loading particle effect definitions
+2018-07-30 12:58:48.794 - Thread:   1 ->        Loading environment item definitions
+2018-07-30 12:58:48.802 - Thread:   1 ->        Loading weapon definitions
+2018-07-30 12:58:48.809 - Thread:   1 ->        Loading cube blocks
+2018-07-30 12:58:48.937 - Thread:   1 ->        Created block definitions
+2018-07-30 12:58:48.964 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\(DL._Inc)_Defender_Drone_MK_I.sbc
+2018-07-30 12:58:48.966 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\(DL._Inc)_Defender_Drone_Mk_II.sbc
+2018-07-30 12:58:48.967 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\(DL._Inc)_Grinder_Drone_Mk_I.sbc
+2018-07-30 12:58:48.967 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\(DL._Inc)_Grinder_Drone_Mk_II.sbc
+2018-07-30 12:58:48.967 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\(DL._Inc)_Mining_Drone_MK_I.sbc
+2018-07-30 12:58:48.968 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\(DL._Inc)_Mining_Drone_Mk_II.sbc
+2018-07-30 12:58:48.968 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\(DL._Inc)_Welder_Drone_Mk_I.sbc
+2018-07-30 12:58:48.968 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\(DL._Inc)_Welder_Drone_Mk_II.sbc
+2018-07-30 12:58:48.968 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\[O-S-L-E]_Enforcer.sbc
+2018-07-30 12:58:48.969 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Ablator.sbc
+2018-07-30 12:58:48.969 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\AlienEasyStation.sbc
+2018-07-30 12:58:48.969 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\AlienLander.sbc
+2018-07-30 12:58:48.969 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Argentavis_mk.1.sbc
+2018-07-30 12:58:48.970 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Arke_Supply_Ship.sbc
+2018-07-30 12:58:48.970 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Armed_Transport_Charon.sbc
+2018-07-30 12:58:48.970 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\ASM-2.sbc
+2018-07-30 12:58:48.970 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Assailant_mk.1.sbc
+2018-07-30 12:58:48.970 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Atmospheric_Miner_mk.2.sbc
+2018-07-30 12:58:48.971 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\AtmosphericLander.sbc
+2018-07-30 12:58:48.971 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Barb_mk.1.sbc
+2018-07-30 12:58:48.971 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Base1.sbc
+2018-07-30 12:58:48.971 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Base4.sbc
+2018-07-30 12:58:48.971 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\BaseEasyStart1.sbc
+2018-07-30 12:58:48.971 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\BaseLoneSurvivor.sbc
+2018-07-30 12:58:48.971 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Buggy.sbc
+2018-07-30 12:58:48.972 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Bumblebee.sbc
+2018-07-30 12:58:48.972 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Camera_Creep_mk.1.sbc
+2018-07-30 12:58:48.972 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Cargo_Buddy_mk.1.sbc
+2018-07-30 12:58:48.972 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\CargoShip.sbc
+2018-07-30 12:58:48.972 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Carrier_[Infinity].sbc
+2018-07-30 12:58:48.973 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\CarrierShipProjector.sbc
+2018-07-30 12:58:48.973 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Civil_Station.sbc
+2018-07-30 12:58:48.973 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Combatant mk.1_13 Weapons Ready.sbc
+2018-07-30 12:58:48.973 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Commercial_Salvager.sbc
+2018-07-30 12:58:48.973 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Computer_Part_Factory_(No_Mods).sbc
+2018-07-30 12:58:48.973 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\ConstructionShip.sbc
+2018-07-30 12:58:48.974 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Constructor_mk.1.sbc
+2018-07-30 12:58:48.974 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-1.sbc
+2018-07-30 12:58:48.974 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-10.sbc
+2018-07-30 12:58:48.974 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-11.sbc
+2018-07-30 12:58:48.974 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-12.sbc
+2018-07-30 12:58:48.974 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-13.sbc
+2018-07-30 12:58:48.974 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-14.sbc
+2018-07-30 12:58:48.975 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-15.sbc
+2018-07-30 12:58:48.975 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-16.sbc
+2018-07-30 12:58:48.975 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-17.sbc
+2018-07-30 12:58:48.979 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-18.sbc
+2018-07-30 12:58:48.979 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-19.sbc
+2018-07-30 12:58:48.980 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-2.sbc
+2018-07-30 12:58:48.980 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-3.sbc
+2018-07-30 12:58:48.980 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-4.sbc
+2018-07-30 12:58:48.980 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-5.sbc
+2018-07-30 12:58:48.980 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-6.sbc
+2018-07-30 12:58:48.980 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-7.sbc
+2018-07-30 12:58:48.981 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-8.sbc
+2018-07-30 12:58:48.981 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Container_MK-9.sbc
+2018-07-30 12:58:48.981 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\ContainerSpaceSmall1.sbc
+2018-07-30 12:58:48.981 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Cursor.sbc
+2018-07-30 12:58:48.981 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Deterrent_mk.1.sbc
+2018-07-30 12:58:48.981 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DoM_Blue01.sbc
+2018-07-30 12:58:48.981 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DoM_Blue02.sbc
+2018-07-30 12:58:48.981 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DoM_Blue03.sbc
+2018-07-30 12:58:48.982 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DoM_Blue04.sbc
+2018-07-30 12:58:48.982 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DoM_Red01.sbc
+2018-07-30 12:58:48.982 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DoM_Red02.sbc
+2018-07-30 12:58:48.982 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DoM_Red03.sbc
+2018-07-30 12:58:48.982 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DoM_Red04.sbc
+2018-07-30 12:58:48.982 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Dread_Hulk_Nefarious_[A2-9604-p].sbc
+2018-07-30 12:58:48.982 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Drifting_Pursuant_mk.1.sbc
+2018-07-30 12:58:48.982 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Drill_Ship_Moon_mk.1.sbc
+2018-07-30 12:58:48.982 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Drillbot_mk.1.sbc
+2018-07-30 12:58:48.982 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\DSF3_Duchessa.sbc
+2018-07-30 12:58:48.982 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Dyad_mk.1.sbc
+2018-07-30 12:58:48.983 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\EarthEasyStation.sbc
+2018-07-30 12:58:48.983 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\EasyStartPirate.sbc
+2018-07-30 12:58:48.983 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\EasyStartSpacePirate.sbc
+2018-07-30 12:58:48.983 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Enforcer_mk.2.sbc
+2018-07-30 12:58:48.983 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Eradicator_mk.1.sbc
+2018-07-30 12:58:48.983 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Explorer.sbc
+2018-07-30 12:58:48.983 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Fighter.sbc
+2018-07-30 12:58:48.983 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Fighter2.sbc
+2018-07-30 12:58:48.983 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Fleeting_Rival_mk.1.sbc
+2018-07-30 12:58:48.983 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\GLU_Jaguar_B-1,_light_Interceptor.sbc
+2018-07-30 12:58:48.983 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\GLU_Mule_A-1,_light_Freighter.sbc
+2018-07-30 12:58:48.984 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\GM2-411_Combat_Destroyer.sbc
+2018-07-30 12:58:48.984 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Grindbot_mk.1.sbc
+2018-07-30 12:58:48.984 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Hydrogen_Test_Drone.sbc
+2018-07-30 12:58:48.984 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\IMDC_Cerberus_Destroyer_Mk.3.sbc
+2018-07-30 12:58:48.984 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\IMDC_Defense_Platform_NPC.sbc
+2018-07-30 12:58:48.984 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\IMDC_Vulture_Fighter_Bomber.sbc
+2018-07-30 12:58:48.984 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Imperator_mk.1.sbc
+2018-07-30 12:58:48.984 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Incisor_mk.1.sbc
+2018-07-30 12:58:48.984 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Informant_mk.1.sbc
+2018-07-30 12:58:48.984 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Insinuator_mk.1.sbc
+2018-07-30 12:58:48.984 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Instigator_mk.1.sbc
+2018-07-30 12:58:48.985 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Kestral-Class_Assault_Fighter.sbc
+2018-07-30 12:58:48.985 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\King_Molar_mk.1.sbc
+2018-07-30 12:58:48.985 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Large_Ship_1360.sbc
+2018-07-30 12:58:48.985 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\LargeShipBlue.sbc
+2018-07-30 12:58:48.985 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\LargeShipRed.sbc
+2018-07-30 12:58:48.985 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\LargeShipRedBuilding.sbc
+2018-07-30 12:58:48.985 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\LargeShipRedCrashed.sbc
+2018-07-30 12:58:48.985 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\LargeShipRedQS1.sbc
+2018-07-30 12:58:48.985 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\LargeShipUnderConstruction.sbc
+2018-07-30 12:58:48.985 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Longsword_Mk._9S.sbc
+2018-07-30 12:58:48.985 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\MarsEasyStation.sbc
+2018-07-30 12:58:48.986 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\MarsLander.sbc
+2018-07-30 12:58:48.986 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Medium-Sized_Explorer_Christine.sbc
+2018-07-30 12:58:48.986 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Military1.sbc
+2018-07-30 12:58:48.986 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Military2.sbc
+2018-07-30 12:58:48.986 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Military3.sbc
+2018-07-30 12:58:48.986 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\MinerSmallShip.sbc
+2018-07-30 12:58:48.986 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Mining1.sbc
+2018-07-30 12:58:48.986 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Mining2.sbc
+2018-07-30 12:58:48.986 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Mining3.sbc
+2018-07-30 12:58:48.986 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Molar_mk.1.sbc
+2018-07-30 12:58:48.986 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Monolith.sbc
+2018-07-30 12:58:48.986 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\MoonEasyStation.sbc
+2018-07-30 12:58:48.987 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\NewLargeShipPrefab.sbc
+2018-07-30 12:58:48.987 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\NewLargeShipPrefabSurvival.sbc
+2018-07-30 12:58:48.987 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\NewSmallShipPrefab.sbc
+2018-07-30 12:58:48.987 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\NewSmallShipPrefabSurvival.sbc
+2018-07-30 12:58:48.987 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\NewStationPrefab.sbc
+2018-07-30 12:58:48.987 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\NewStationPrefabSurvival.sbc
+2018-07-30 12:58:48.987 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Ore_Detection_Station_mk.1.sbc
+2018-07-30 12:58:48.987 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Penguin_mk.1.sbc
+2018-07-30 12:58:48.987 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Pirate_Base_Large_mk.2.sbc
+2018-07-30 12:58:48.987 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Pirate_Base_Medium_mk.1.sbc
+2018-07-30 12:58:48.987 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\PirateBase.sbc
+2018-07-30 12:58:48.987 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Pitbull_Bomber.sbc
+2018-07-30 12:58:48.988 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Plataforma_1000.sbc
+2018-07-30 12:58:48.988 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Platform_417.sbc
+2018-07-30 12:58:48.988 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Platform_5546.sbc
+2018-07-30 12:58:48.988 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Platform_6572.sbc
+2018-07-30 12:58:48.988 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Platform_6674.sbc
+2018-07-30 12:58:48.988 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Platform_7912.sbc
+2018-07-30 12:58:48.988 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Platform_8820.sbc
+2018-07-30 12:58:48.988 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Platform_9178.sbc
+2018-07-30 12:58:48.988 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Platform4328.sbc
+2018-07-30 12:58:48.988 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\PractiseShip.sbc
+2018-07-30 12:58:48.988 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Projector_large_ship.sbc
+2018-07-30 12:58:48.988 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Projector_small_ship.sbc
+2018-07-30 12:58:48.989 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\PZK_Coockie_monster_hull.sbc
+2018-07-30 12:58:48.989 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Raefftech_Base_Ship_(outdated).sbc
+2018-07-30 12:58:48.989 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Raiding_Outpost_mk.1.sbc
+2018-07-30 12:58:48.989 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Raiding_Station_-_Scourge.sbc
+2018-07-30 12:58:48.989 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\RAVEN.sbc
+2018-07-30 12:58:48.989 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Raven_MkII.sbc
+2018-07-30 12:58:48.989 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Renaissance.sbc
+2018-07-30 12:58:48.989 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\RespawnShip.sbc
+2018-07-30 12:58:48.989 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\SF-45.sbc
+2018-07-30 12:58:48.990 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Small Ship 5418.sbc
+2018-07-30 12:58:48.990 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Small_Grid_1642.sbc
+2018-07-30 12:58:48.990 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Small_Ship_5727.sbc
+2018-07-30 12:58:48.990 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\SmallShip_SingleBlock.sbc
+2018-07-30 12:58:48.990 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Space_Mine_mk.1.sbc
+2018-07-30 12:58:48.990 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Spaceport_Terminal.sbc
+2018-07-30 12:58:48.990 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\SpawnShipAssembler.sbc
+2018-07-30 12:58:48.990 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\SpawnShipDrill.sbc
+2018-07-30 12:58:48.990 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\SpawnShipEscapePod.sbc
+2018-07-30 12:58:48.990 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\SpawnShipRefineryAssembler.sbc
+2018-07-30 12:58:48.990 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Spiteful_Aggressor_mk.1.sbc
+2018-07-30 12:58:48.991 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Spur_mk.1.sbc
+2018-07-30 12:58:48.991 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Starfury_MkII.sbc
+2018-07-30 12:58:48.991 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\STARTERSHIP.sbc
+2018-07-30 12:58:48.991 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Station_8315622.sbc
+2018-07-30 12:58:48.991 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Stinging_Adversary_mk.1.sbc
+2018-07-30 12:58:48.991 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\SuicideShip.sbc
+2018-07-30 12:58:48.991 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\The_Pilgrims_Curiosity.sbc
+2018-07-30 12:58:48.991 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Thief_mk.1.sbc
+2018-07-30 12:58:48.991 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\'Tick'_Ore_Scow_and_'Mite'_Mining_Drone.sbc
+2018-07-30 12:58:48.991 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\TLF-28a_(LSF_CargoShip_Mod).sbc
+2018-07-30 12:58:48.991 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Trade1.sbc
+2018-07-30 12:58:48.991 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Trade2.sbc
+2018-07-30 12:58:48.992 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Trade3.sbc
+2018-07-30 12:58:48.992 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Trader1.sbc
+2018-07-30 12:58:48.992 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Trainspark.sbc
+2018-07-30 12:58:48.992 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Tusk_mk.1.sbc
+2018-07-30 12:58:48.992 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Ubumboo_(for_Exploration).sbc
+2018-07-30 12:58:48.992 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\VehicleProjector.sbc
+2018-07-30 12:58:48.992 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Volunder_exploration_ship.sbc
+2018-07-30 12:58:48.992 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Weapon_Platform_Gatling_mk.1.sbc
+2018-07-30 12:58:48.992 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\Xedus_Ophiniam_class_Attack_Frigate.sbc
+2018-07-30 12:58:48.992 - Thread:   1 ->        Loading prefab: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\Data\Prefabs\YellowDrone.sbc
+2018-07-30 12:58:48.994 - Thread:   1 ->        Loading drop containers
+2018-07-30 12:58:48.995 - Thread:   1 ->        Loading respawn ships
+2018-07-30 12:58:48.997 - Thread:   1 ->        Loading spawn groups
+2018-07-30 12:58:49.003 - Thread:   1 ->        Loading wheel speeds
+2018-07-30 12:58:49.115 - Thread:   1 ->     MyDefinitionManager.LoadData() - END
+2018-07-30 12:58:49.120 - Thread:   1 ->     Registered modules from: VRage.Game, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2018-07-30 12:58:49.139 - Thread:   1 ->     Registered modules from: Sandbox.Graphics, Version=0.1.6779.24432, Culture=neutral, PublicKeyToken=null
+2018-07-30 12:58:49.140 - Thread:   1 ->     Registered modules from: Sandbox.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2018-07-30 12:58:49.156 - Thread:   1 ->     Registered modules from: SpaceEngineers.Game, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2018-07-30 12:58:49.169 - Thread:   1 ->     Registered modules from: Sandbox.Game, Version=0.1.6779.24440, Culture=neutral, PublicKeyToken=null
+2018-07-30 12:58:49.478 - Thread:   1 ->     Loading Procedural World Generator: Seed = '0' = 0, Density = 0.25
+2018-07-30 12:58:51.165 - Thread:   1 ->     MyLights.LoadData() - START
+2018-07-30 12:58:51.167 - Thread:   1 ->     MyLights.LoadData() - END
+2018-07-30 12:58:51.168 - Thread:   1 ->     MyExplosions.LoadData() - START
+2018-07-30 12:58:51.177 - Thread:   1 ->     MyExplosions.LoadData() - END
+2018-07-30 12:58:51.178 - Thread:   1 ->     MyMissiles.LoadContent() - START
+2018-07-30 12:58:51.178 - Thread:   1 ->     MyMissiles.LoadContent() - END
+2018-07-30 12:58:51.181 - Thread:   1 ->     Pre-loading neutral ship spawn groups...
+2018-07-30 12:58:51.182 - Thread:   1 ->     End pre-loading neutral ship spawn groups.
+2018-07-30 12:58:51.273 - Thread:   1 ->     Warning: Missing definition MyObjectBuilder_DemoComponentDefinition/Default : for session component DemoComponent
+2018-07-30 12:58:51.397 - Thread:  19 ->  Loading voxel storage from file 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves\Atlantis\Asteroid_0_-1_0_2_263958653.vx2'
+2018-07-30 12:58:51.401 - Thread:   1 ->     Loading voxel storage from file 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves\Atlantis\RedShipCrashed-1.vx2'
+2018-07-30 12:58:51.402 - Thread:  17 ->  Loading voxel storage from file 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves\Atlantis\Asteroid_-1_-1_-1_4_787683705.vx2'
+2018-07-30 12:58:51.402 - Thread:  18 ->  Loading voxel storage from file 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves\Atlantis\Asteroid_-1_0_0_3_1377455421.vx2'
+2018-07-30 12:58:51.403 - Thread:  20 ->  Loading voxel storage from file 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves\Atlantis\Asteroid_-1_0_-1_5_1998101573.vx2'
+2018-07-30 12:58:51.544 - Thread:  18 ->  Loading voxel storage from file 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves\Atlantis\Asteroid_-1_0_0_2_1701417539.vx2'
+2018-07-30 12:58:51.637 - Thread:  19 ->  Loading voxel storage from file 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves\Atlantis\Asteroid_-1_0_0_1_2083664907.vx2'
+2018-07-30 12:58:51.640 - Thread:  19 ->  Loading voxel storage from file 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves\Atlantis\Asteroid_-1_0_1_0_141100840.vx2'
+2018-07-30 12:58:51.642 - Thread:  19 ->  Loading voxel storage from file 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves\Atlantis\Asteroid_-2_0_-1_4_1806671140.vx2'
+2018-07-30 12:58:55.892 - Thread:   1 ->     Clusters reordered
+2018-07-30 12:58:55.894 - Thread:   1 ->     Clusters reordered
+2018-07-30 12:58:56.055 - Thread:   1 ->     Clusters reordered
+2018-07-30 12:58:56.058 - Thread:   1 ->     Clusters reordered
+2018-07-30 12:58:56.161 - Thread:   1 ->     Checkpoint.CameraAttachedTo: 124369460383299769
+2018-07-30 12:58:56.162 - Thread:   1 ->     ERROR: Camera entity from checkpoint does not exists!
+2018-07-30 12:58:56.203 - Thread:   1 ->     MySession.Static.LogSettings - START
+2018-07-30 12:58:56.204 - Thread:   1 ->        Name = Atlantis
+2018-07-30 12:58:56.204 - Thread:   1 ->        Description = 
+2018-07-30 12:58:56.204 - Thread:   1 ->        GameDateTime = 01/01/2081 16:57:22
+2018-07-30 12:58:56.205 - Thread:   1 ->        Password = 
+2018-07-30 12:58:56.205 - Thread:   1 ->        CurrentPath = C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves\Atlantis
+2018-07-30 12:58:56.205 - Thread:   1 ->        WorkshopId = 
+2018-07-30 12:58:56.205 - Thread:   1 ->        CameraController = Sandbox.Engine.Utils.MySpectatorCameraController
+2018-07-30 12:58:56.205 - Thread:   1 ->        ThumbPath = C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves\Atlantis\thumb.jpg
+2018-07-30 12:58:56.208 - Thread:   1 ->        Settings:
+2018-07-30 12:58:56.208 - Thread:   1 ->           GameMode = Survival
+2018-07-30 12:58:56.208 - Thread:   1 ->           MaxPlayers = 4
+2018-07-30 12:58:56.209 - Thread:   1 ->           OnlineMode = PUBLIC
+2018-07-30 12:58:56.209 - Thread:   1 ->           AutoHealing = True
+2018-07-30 12:58:56.209 - Thread:   1 ->           WeaponsEnabled = True
+2018-07-30 12:58:56.209 - Thread:   1 ->           ThrusterDamage = True
+2018-07-30 12:58:56.209 - Thread:   1 ->           EnableSpectator = False
+2018-07-30 12:58:56.210 - Thread:   1 ->           EnableCopyPaste = False
+2018-07-30 12:58:56.210 - Thread:   1 ->           MaxFloatingObjects = 56
+2018-07-30 12:58:56.210 - Thread:   1 ->           MaxGridSize = 0
+2018-07-30 12:58:56.210 - Thread:   1 ->           MaxBlocksPerPlayer = 0
+2018-07-30 12:58:56.210 - Thread:   1 ->           CargoShipsEnabled = False
+2018-07-30 12:58:56.210 - Thread:   1 ->           EnvironmentHostility = SAFE
+2018-07-30 12:58:56.211 - Thread:   1 ->           ShowPlayerNamesOnHud = True
+2018-07-30 12:58:56.211 - Thread:   1 ->           InventorySizeMultiplier = 20
+2018-07-30 12:58:56.211 - Thread:   1 ->           RefinerySpeedMultiplier = 5
+2018-07-30 12:58:56.211 - Thread:   1 ->           AssemblerSpeedMultiplier = 5
+2018-07-30 12:58:56.211 - Thread:   1 ->           AssemblerEfficiencyMultiplier = 5
+2018-07-30 12:58:56.211 - Thread:   1 ->           WelderSpeedMultiplier = 5
+2018-07-30 12:58:56.211 - Thread:   1 ->           GrinderSpeedMultiplier = 5
+2018-07-30 12:58:56.212 - Thread:   1 ->           ClientCanSave = False
+2018-07-30 12:58:56.212 - Thread:   1 ->           HackSpeedMultiplier = 0.33
+2018-07-30 12:58:56.212 - Thread:   1 ->           PermanentDeath = False
+2018-07-30 12:58:56.212 - Thread:   1 ->           DestructibleBlocks =  True
+2018-07-30 12:58:56.212 - Thread:   1 ->           EnableScripts =  False
+2018-07-30 12:58:56.212 - Thread:   1 ->           AutoSaveInMinutes = 5
+2018-07-30 12:58:56.212 - Thread:   1 ->           SpawnShipTimeMultiplier = 0.5
+2018-07-30 12:58:56.212 - Thread:   1 ->           ProceduralDensity = 0.25
+2018-07-30 12:58:56.212 - Thread:   1 ->           ProceduralSeed = 0
+2018-07-30 12:58:56.213 - Thread:   1 ->           DestructibleBlocks = True
+2018-07-30 12:58:56.213 - Thread:   1 ->           EnableIngameScripts = False
+2018-07-30 12:58:56.213 - Thread:   1 ->           ViewDistance = 15000
+2018-07-30 12:58:56.213 - Thread:   1 ->           Voxel destruction = True
+2018-07-30 12:58:56.213 - Thread:   1 ->           EnableStructuralSimulation = False
+2018-07-30 12:58:56.213 - Thread:   1 ->           MaxActiveFracturePieces = 50
+2018-07-30 12:58:56.213 - Thread:   1 ->           EnableContainerDrops = True
+2018-07-30 12:58:56.214 - Thread:   1 ->           MinDropContainerRespawnTime = 5
+2018-07-30 12:58:56.214 - Thread:   1 ->           MaxDropContainerRespawnTime = 20
+2018-07-30 12:58:56.214 - Thread:   1 ->           EnableTurretsFriendlyFire = False
+2018-07-30 12:58:56.214 - Thread:   1 ->           EnableSubgridDamage = False
+2018-07-30 12:58:56.214 - Thread:   1 ->           SyncDistance = 3000
+2018-07-30 12:58:56.214 - Thread:   1 ->           BlockLimitsEnabled = GLOBALLY
+2018-07-30 12:58:56.214 - Thread:   1 ->           ExperimentalMode = False
+2018-07-30 12:58:56.214 - Thread:   1 ->           ExperimentalModeReason = 0
+2018-07-30 12:58:56.214 - Thread:   1 ->     MySession.Static.LogSettings - END
+2018-07-30 12:58:56.486 - Thread:   1 ->     Analytics helper process start reported
+2018-07-30 12:58:56.493 - Thread:   1 ->     Session loaded
+2018-07-30 12:58:56.528 - Thread:   1 ->  MySandboxGame.Initialize() - END
+2018-07-30 12:58:56.537 - Thread:   1 ->  Timer Frequency: 2742186
+2018-07-30 12:58:56.537 - Thread:   1 ->  Ticks per frame: 45703
+2018-07-30 12:58:56.605 - Thread:   1 ->  Server connected to Steam
+2018-07-30 12:58:56.611 - Thread:   1 ->  Server PolicyResponse (1)
+2018-07-30 12:58:56.617 - Thread:   1 ->  Updating continues.
+2018-07-30 12:58:57.623 - Thread:   1 ->  GC Memory: 234,706,168 B
+2018-07-30 12:58:57.798 - Thread:   1 ->  Game ready... 
+2018-07-30 12:59:04.805 - Thread:  10 ->  Peer2Peer_SessionRequest 76561198161615542
+2018-07-30 12:59:08.436 - Thread:   1 ->  OnConnectedClient Titi attempt
+2018-07-30 12:59:08.746 - Thread:   1 ->  Server ValidateAuthTicketResponse (OK), owner: 76561198161615542
+2018-07-30 12:59:08.935 - Thread:   1 ->  World request received: Titi
+2018-07-30 12:59:08.937 - Thread:   1 ->  ...responding
+2018-07-30 12:59:27.633 - Thread:   1 ->  GC Memory: 238,199,544 B
+2018-07-30 12:59:57.647 - Thread:   1 ->  GC Memory: 214,359,208 B
+2018-07-30 13:00:09.228 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:00:09.231 - Thread:   1 ->  STATISTICS,0,0.00661087,0.01369858,0.03381824,0.1068983,0.1713905,0.4548473,10.37987,0.01449824,1,0,204.9005,459.5586,10343,89657,12
+2018-07-30 13:00:27.663 - Thread:   1 ->  GC Memory: 215,404,448 B
+2018-07-30 13:00:57.680 - Thread:   1 ->  GC Memory: 214,884,264 B
+2018-07-30 13:01:09.246 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:01:09.248 - Thread:   1 ->  STATISTICS,60.0166666301994,0.00641346,0.0141592,0.03381824,0.1068983,0.5638428,1.322143,9.09641,0.02973554,1,0,205.6792,459.5586,10343,89657,12
+2018-07-30 13:01:27.697 - Thread:   1 ->  GC Memory: 213,247,704 B
+2018-07-30 13:01:57.713 - Thread:   1 ->  GC Memory: 215,135,744 B
+2018-07-30 13:02:09.261 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:02:09.263 - Thread:   1 ->  STATISTICS,120.033333260399,0.006522179,0.01402092,0.03381824,0.1068983,0.9648628,2.188796,10.58002,0.0397529,1,0,205.9023,459.5586,10343,89657,12
+2018-07-30 13:02:27.730 - Thread:   1 ->  GC Memory: 216,507,168 B
+2018-07-30 13:02:57.739 - Thread:   1 ->  GC Memory: 215,603,992 B
+2018-07-30 13:03:09.919 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:03:09.920 - Thread:   1 ->  STATISTICS,180.049999890598,0.00676918,0.01412678,0.03381824,0.1068983,1.36114,3.053312,11.25842,0.02663658,1,0,206.5012,459.5586,10343,89657,12
+2018-07-30 13:03:24.988 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:03:27.754 - Thread:   1 ->  GC Memory: 216,656,832 B
+2018-07-30 13:03:29.571 - Thread:   1 ->  Autosave initiated
+2018-07-30 13:03:29.572 - Thread:   1 ->  Character state: True
+2018-07-30 13:03:29.572 - Thread:   1 ->  IsServer: True
+2018-07-30 13:03:29.572 - Thread:   1 ->  MyAsyncSaving.InProgress: False
+2018-07-30 13:03:29.572 - Thread:   1 ->  Autosave
+2018-07-30 13:03:29.577 - Thread:   1 ->  Saving world - START
+2018-07-30 13:03:29.577 - Thread:   1 ->     Making world state snapshot.
+2018-07-30 13:03:29.578 - Thread:   1 ->     Before snapshot.: GC Memory: 215,122,928 B
+2018-07-30 13:03:29.610 - Thread:   1 ->     After snapshot.: GC Memory: 216,499,808 B
+2018-07-30 13:03:29.634 - Thread:   1 ->     Directory cleanup: GC Memory: 216,499,808 B
+2018-07-30 13:03:29.635 - Thread:   1 ->  Saving world - END
+2018-07-30 13:03:29.640 - Thread:  18 ->  Session snapshot save - START
+2018-07-30 13:03:29.640 - Thread:  18 ->     Checking file access for files in target dir.
+2018-07-30 13:03:33.038 - Thread:  18 ->  Session snapshot save - END
+2018-07-30 13:03:57.756 - Thread:   1 ->  GC Memory: 219,688,224 B
+2018-07-30 13:04:10.334 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:04:10.336 - Thread:   1 ->  STATISTICS,240.066666520798,0.006910324,0.01460171,0.03381824,0.1068983,1.775665,3.932076,10.65731,0.07615082,1,0,209.8505,459.5586,10384,89616,12
+2018-07-30 13:04:27.772 - Thread:   1 ->  GC Memory: 221,966,848 B
+2018-07-30 13:04:57.789 - Thread:   1 ->  GC Memory: 222,765,448 B
+2018-07-30 13:05:10.654 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:05:10.656 - Thread:   1 ->  STATISTICS,300.083333150997,0.003716469,0.01002598,0.03381824,0.1068983,2.159266,4.765832,9.751297,0.03552187,1,0,205.5731,459.5586,10438,89562,12
+2018-07-30 13:05:27.805 - Thread:   1 ->  GC Memory: 214,529,472 B
+2018-07-30 13:05:57.822 - Thread:   1 ->  GC Memory: 216,178,752 B
+2018-07-30 13:06:10.671 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:06:10.671 - Thread:   1 ->  STATISTICS,360.099999781196,0.002335548,0.01004601,0.03381824,0.1068983,2.354306,5.382558,8.603286,0.03423732,1,0,204.7002,459.5586,10438,89562,12
+2018-07-30 13:06:26.151 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:06:27.833 - Thread:   1 ->  GC Memory: 257,832,048 B
+2018-07-30 13:06:57.851 - Thread:   1 ->  GC Memory: 259,861,848 B
+2018-07-30 13:07:11.315 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:07:11.317 - Thread:   1 ->  STATISTICS,420.116666411396,0.003774643,0.009907722,0.3268738,0.1068983,2.884437,6.000881,9.772,1.005233,1,0,246.9547,459.5586,10438,89562,13
+2018-07-30 13:07:27.867 - Thread:   1 ->  GC Memory: 257,867,104 B
+2018-07-30 13:07:57.883 - Thread:   1 ->  GC Memory: 259,285,168 B
+2018-07-30 13:08:11.331 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:08:11.334 - Thread:   1 ->  STATISTICS,480.133333041595,0.003256798,0.00987339,0.3268738,0.1068983,3.101954,6.624718,10.55968,0.03159143,1,0,246.6443,459.5586,10438,89562,13
+2018-07-30 13:08:27.900 - Thread:   1 ->  GC Memory: 260,588,016 B
+2018-07-30 13:08:29.583 - Thread:   1 ->  Autosave initiated
+2018-07-30 13:08:29.585 - Thread:   1 ->  Character state: True
+2018-07-30 13:08:29.585 - Thread:   1 ->  IsServer: True
+2018-07-30 13:08:29.585 - Thread:   1 ->  MyAsyncSaving.InProgress: False
+2018-07-30 13:08:29.585 - Thread:   1 ->  Autosave
+2018-07-30 13:08:29.585 - Thread:   1 ->  Saving world - START
+2018-07-30 13:08:29.585 - Thread:   1 ->     Making world state snapshot.
+2018-07-30 13:08:29.586 - Thread:   1 ->     Before snapshot.: GC Memory: 258,583,872 B
+2018-07-30 13:08:29.598 - Thread:   1 ->     After snapshot.: GC Memory: 259,911,600 B
+2018-07-30 13:08:29.598 - Thread:   1 ->     Directory cleanup: GC Memory: 259,911,600 B
+2018-07-30 13:08:29.598 - Thread:   1 ->  Saving world - END
+2018-07-30 13:08:29.598 - Thread:  18 ->  Session snapshot save - START
+2018-07-30 13:08:29.598 - Thread:  18 ->     Checking file access for files in target dir.
+2018-07-30 13:08:33.275 - Thread:  18 ->  Session snapshot save - END
+2018-07-30 13:08:44.516 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:08:57.917 - Thread:   1 ->  GC Memory: 250,566,072 B
+2018-07-30 13:09:11.498 - Thread:   1 ->  MyGlobalEvent.RecalculateActivationTime:
+2018-07-30 13:09:11.500 - Thread:   1 ->  Next activation in 00:09:23.6267041
+2018-07-30 13:09:11.629 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:09:11.631 - Thread:   1 ->  STATISTICS,540.150000036467,0.006796837,0.01373959,0.3268738,0.1068983,3.413248,7.357146,13.71654,4.675695,1,0,239.1222,459.5586,10445,89555,14
+2018-07-30 13:09:27.930 - Thread:   1 ->  GC Memory: 249,713,216 B
+2018-07-30 13:09:57.947 - Thread:   1 ->  GC Memory: 249,669,336 B
+2018-07-30 13:10:11.928 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:10:11.930 - Thread:   1 ->  STATISTICS,600.166666666667,0.007266045,0.01519108,0.3268738,0.1068983,3.825438,8.23348,10.5396,0.06574278,1,0,238.5285,459.5586,10456,89544,16
+2018-07-30 13:10:27.963 - Thread:   1 ->  GC Memory: 252,663,464 B
+2018-07-30 13:10:57.980 - Thread:   1 ->  GC Memory: 251,591,248 B
+2018-07-30 13:11:11.945 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:11:11.947 - Thread:   1 ->  STATISTICS,660.183333296866,0.006632805,0.01492023,0.3268738,0.1068983,4.157206,9.096703,12.32661,0.02920052,1,0,239.9446,459.5586,10455,89545,15
+2018-07-30 13:11:27.996 - Thread:   1 ->  GC Memory: 251,079,200 B
+2018-07-30 13:11:58.013 - Thread:   1 ->  GC Memory: 253,868,912 B
+2018-07-30 13:12:11.961 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:12:11.963 - Thread:   1 ->  STATISTICS,720.199999927066,0.004244804,0.01214886,0.3268738,0.1068983,4.485736,9.983926,10.2346,0.02561914,1,0,240.0668,459.5586,10447,89553,15
+2018-07-30 13:12:28.030 - Thread:   1 ->  GC Memory: 253,926,776 B
+2018-07-30 13:12:58.063 - Thread:   1 ->  GC Memory: 251,924,960 B
+2018-07-30 13:13:11.978 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:13:11.980 - Thread:   1 ->  STATISTICS,780.216666557265,0.006526947,0.015728,0.3268738,0.1068983,4.865922,10.90958,13.60759,0.02082696,1,0,240.3603,459.5586,10447,89553,15
+2018-07-30 13:13:28.080 - Thread:   1 ->  GC Memory: 251,493,392 B
+2018-07-30 13:13:29.596 - Thread:   1 ->  Autosave initiated
+2018-07-30 13:13:29.598 - Thread:   1 ->  Character state: True
+2018-07-30 13:13:29.598 - Thread:   1 ->  IsServer: True
+2018-07-30 13:13:29.599 - Thread:   1 ->  MyAsyncSaving.InProgress: False
+2018-07-30 13:13:29.599 - Thread:   1 ->  Autosave
+2018-07-30 13:13:29.599 - Thread:   1 ->  Saving world - START
+2018-07-30 13:13:29.599 - Thread:   1 ->     Making world state snapshot.
+2018-07-30 13:13:29.599 - Thread:   1 ->     Before snapshot.: GC Memory: 252,860,896 B
+2018-07-30 13:13:29.612 - Thread:   1 ->     After snapshot.: GC Memory: 254,188,624 B
+2018-07-30 13:13:29.613 - Thread:   1 ->     Directory cleanup: GC Memory: 254,188,624 B
+2018-07-30 13:13:29.613 - Thread:   1 ->  Saving world - END
+2018-07-30 13:13:29.613 - Thread:  18 ->  Session snapshot save - START
+2018-07-30 13:13:29.613 - Thread:  18 ->     Checking file access for files in target dir.
+2018-07-30 13:13:33.266 - Thread:  18 ->  Session snapshot save - END
+2018-07-30 13:13:58.080 - Thread:   1 ->  GC Memory: 252,552,584 B
+2018-07-30 13:14:03.280 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:14:11.994 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:14:11.996 - Thread:   1 ->  STATISTICS,840.233333187464,0.007089615,0.01568985,0.3268738,0.1068983,5.285971,11.84775,9.767306,0.02356634,1,0,242.2901,459.5586,10447,89553,16
+2018-07-30 13:14:28.083 - Thread:   1 ->  GC Memory: 254,128,936 B
+2018-07-30 13:14:55.833 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:14:58.099 - Thread:   1 ->  GC Memory: 254,181,704 B
+2018-07-30 13:15:12.298 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:15:12.300 - Thread:   1 ->  STATISTICS,900.249999817664,0.00662899,0.01232338,0.3268738,0.1068983,5.68548,12.68987,9.942627,0.01591568,1,0,243.0119,459.5586,10446,89554,14
+2018-07-30 13:15:28.116 - Thread:   1 ->  GC Memory: 256,627,304 B
+2018-07-30 13:15:58.133 - Thread:   1 ->  GC Memory: 255,299,120 B
+2018-07-30 13:16:12.314 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:16:12.316 - Thread:   1 ->  STATISTICS,960.266666447863,0.006629944,0.01303482,0.3268738,0.1068983,6.086438,13.42688,25.98641,0.02541361,1,0,244.8702,459.5586,10446,89554,14
+2018-07-30 13:16:28.149 - Thread:   1 ->  GC Memory: 256,555,520 B
+2018-07-30 13:16:58.166 - Thread:   1 ->  GC Memory: 255,762,192 B
+2018-07-30 13:17:12.331 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:17:12.333 - Thread:   1 ->  STATISTICS,1020.28333307806,0.006633759,0.01562881,0.3268738,0.1068983,6.483907,14.23265,10.51283,0.01840654,1,0,244.4616,459.5586,10446,89554,13
+2018-07-30 13:17:28.183 - Thread:   1 ->  GC Memory: 258,043,080 B
+2018-07-30 13:17:58.199 - Thread:   1 ->  GC Memory: 255,673,128 B
+2018-07-30 13:18:12.347 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:18:12.349 - Thread:   1 ->  STATISTICS,1080.29999970826,0.006631851,0.01403809,0.3268738,0.1068983,6.884715,15.12284,10.01497,0.05084947,1,0,243.7344,459.5586,10502,89498,13
+2018-07-30 13:18:28.216 - Thread:   1 ->  GC Memory: 257,612,992 B
+2018-07-30 13:18:29.599 - Thread:   1 ->  Autosave initiated
+2018-07-30 13:18:29.601 - Thread:   1 ->  Character state: True
+2018-07-30 13:18:29.602 - Thread:   1 ->  IsServer: True
+2018-07-30 13:18:29.602 - Thread:   1 ->  MyAsyncSaving.InProgress: False
+2018-07-30 13:18:29.602 - Thread:   1 ->  Autosave
+2018-07-30 13:18:29.602 - Thread:   1 ->  Saving world - START
+2018-07-30 13:18:29.602 - Thread:   1 ->     Making world state snapshot.
+2018-07-30 13:18:29.602 - Thread:   1 ->     Before snapshot.: GC Memory: 255,379,720 B
+2018-07-30 13:18:29.614 - Thread:   1 ->     After snapshot.: GC Memory: 256,699,256 B
+2018-07-30 13:18:29.615 - Thread:   1 ->     Directory cleanup: GC Memory: 256,699,256 B
+2018-07-30 13:18:29.615 - Thread:   1 ->  Saving world - END
+2018-07-30 13:18:29.615 - Thread:  17 ->  Session snapshot save - START
+2018-07-30 13:18:29.616 - Thread:  17 ->     Checking file access for files in target dir.
+2018-07-30 13:18:32.862 - Thread:  17 ->  Session snapshot save - END
+2018-07-30 13:18:36.098 - Thread:   1 ->  MyGlobalEvent.RecalculateActivationTime:
+2018-07-30 13:18:36.100 - Thread:   1 ->  Next activation in 00:09:18.4622868
+2018-07-30 13:18:58.233 - Thread:   1 ->  GC Memory: 254,363,552 B
+2018-07-30 13:19:12.364 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:19:12.366 - Thread:   1 ->  STATISTICS,1140.31666670313,0.006767273,0.01456928,0.3268738,0.1068983,7.294497,15.99987,10.40456,0.01861658,1,0,242.5903,459.5586,10507,89493,13
+2018-07-30 13:19:21.766 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:19:28.249 - Thread:   1 ->  GC Memory: 255,940,792 B
+2018-07-30 13:19:58.266 - Thread:   1 ->  GC Memory: 255,477,728 B
+2018-07-30 13:20:12.381 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:20:12.383 - Thread:   1 ->  STATISTICS,1200.33333333333,0.00674057,0.01377869,0.3268738,0.1068983,7.693614,16.87545,11.69836,0.06374546,1,0,244.2725,459.5586,10487,89513,14
+2018-07-30 13:20:28.282 - Thread:   1 ->  GC Memory: 257,331,456 B
+2018-07-30 13:20:58.299 - Thread:   1 ->  GC Memory: 257,440,144 B
+2018-07-30 13:21:12.397 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:21:12.399 - Thread:   1 ->  STATISTICS,1260.34999996353,0.006738663,0.01488781,0.3268738,0.1068983,8.101208,17.74515,11.29908,0.02168918,1,0,245.4793,459.5586,10567,89433,14
+2018-07-30 13:21:28.315 - Thread:   1 ->  GC Memory: 255,642,984 B
+2018-07-30 13:21:58.332 - Thread:   1 ->  GC Memory: 255,686,336 B
+2018-07-30 13:22:12.706 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:22:12.708 - Thread:   1 ->  STATISTICS,1320.36666659373,0.006568909,0.01473618,1.731434,0.1068983,10.22864,18.63179,11.68232,0.03905718,1,0,260.3268,459.5586,10567,89433,15
+2018-07-30 13:22:28.341 - Thread:   1 ->  GC Memory: 274,741,800 B
+2018-07-30 13:22:58.358 - Thread:   1 ->  GC Memory: 274,054,632 B
+2018-07-30 13:23:12.723 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:23:12.724 - Thread:   1 ->  STATISTICS,1380.38333322393,0.007230759,0.01429367,1.731434,0.1068983,10.64625,19.52332,11.69273,0.0179664,1,0,261.7874,459.5586,10567,89433,15
+2018-07-30 13:23:24.958 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:23:28.374 - Thread:   1 ->  GC Memory: 273,851,152 B
+2018-07-30 13:23:29.608 - Thread:   1 ->  Autosave initiated
+2018-07-30 13:23:29.610 - Thread:   1 ->  Character state: True
+2018-07-30 13:23:29.610 - Thread:   1 ->  IsServer: True
+2018-07-30 13:23:29.610 - Thread:   1 ->  MyAsyncSaving.InProgress: False
+2018-07-30 13:23:29.610 - Thread:   1 ->  Autosave
+2018-07-30 13:23:29.610 - Thread:   1 ->  Saving world - START
+2018-07-30 13:23:29.610 - Thread:   1 ->     Making world state snapshot.
+2018-07-30 13:23:29.610 - Thread:   1 ->     Before snapshot.: GC Memory: 274,907,648 B
+2018-07-30 13:23:29.627 - Thread:   1 ->     After snapshot.: GC Memory: 274,052,576 B
+2018-07-30 13:23:29.628 - Thread:   1 ->     Directory cleanup: GC Memory: 274,052,576 B
+2018-07-30 13:23:29.628 - Thread:   1 ->  Saving world - END
+2018-07-30 13:23:29.628 - Thread:  18 ->  Session snapshot save - START
+2018-07-30 13:23:29.629 - Thread:  18 ->     Checking file access for files in target dir.
+2018-07-30 13:23:35.459 - Thread:  18 ->  Session snapshot save - END
+2018-07-30 13:23:58.391 - Thread:   1 ->  GC Memory: 278,089,488 B
+2018-07-30 13:24:12.739 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:24:12.741 - Thread:   1 ->  STATISTICS,1440.39999985413,0.006658554,0.01459885,1.731434,0.1068983,11.05556,20.41124,11.57488,0.4513329,1,0,265.7069,459.5586,10567,89433,15
+2018-07-30 13:24:28.408 - Thread:   1 ->  GC Memory: 277,064,856 B
+2018-07-30 13:24:40.348 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:24:58.417 - Thread:   1 ->  GC Memory: 278,689,264 B
+2018-07-30 13:25:13.675 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:25:13.677 - Thread:   1 ->  STATISTICS,1500.41666648433,0.00652504,0.01339149,1.731434,0.1068983,11.46321,21.25284,13.0111,1.666225,1,0,264.7927,459.5586,10788,89212,15
+2018-07-30 13:25:28.427 - Thread:   1 ->  GC Memory: 278,860,784 B
+2018-07-30 13:25:58.444 - Thread:   1 ->  GC Memory: 279,292,792 B
+2018-07-30 13:26:13.981 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:26:13.983 - Thread:   1 ->  STATISTICS,1560.43333311453,0.006660461,0.01372623,1.731434,0.1068983,11.87232,22.15201,12.52087,0.06291609,1,0,265.8074,459.5586,10888,89112,15
+2018-07-30 13:26:28.449 - Thread:   1 ->  GC Memory: 279,390,520 B
+2018-07-30 13:26:38.639 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:26:51.948 - Thread:   1 ->  Player character died. Id : 76561198161615542
+2018-07-30 13:26:58.465 - Thread:   1 ->  GC Memory: 280,040,784 B
+2018-07-30 13:27:13.997 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:27:13.999 - Thread:   1 ->  STATISTICS,1620.44999974473,0.006631851,0.01655674,1.731434,0.1068983,12.25202,23.06121,11.17835,0.01228314,1,0,266.4122,459.5586,10888,89112,15
+2018-07-30 13:27:28.474 - Thread:   1 ->  GC Memory: 268,587,600 B
+2018-07-30 13:27:57.756 - Thread:   1 ->  MyGlobalEvent.RecalculateActivationTime:
+2018-07-30 13:27:57.758 - Thread:   1 ->  Next activation in 00:09:25.8573166
+2018-07-30 13:27:58.490 - Thread:   1 ->  GC Memory: 269,631,248 B
+2018-07-30 13:28:14.138 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:28:14.141 - Thread:   1 ->  STATISTICS,1680.46666637493,0.006768227,0.01422882,1.731434,0.1068983,12.65823,23.95968,11.43289,0.02877302,1,0,256.5784,459.5586,10879,89121,15
+2018-07-30 13:28:28.507 - Thread:   1 ->  GC Memory: 269,029,840 B
+2018-07-30 13:28:29.624 - Thread:   1 ->  Autosave initiated
+2018-07-30 13:28:29.626 - Thread:   1 ->  Character state: True
+2018-07-30 13:28:29.626 - Thread:   1 ->  IsServer: True
+2018-07-30 13:28:29.626 - Thread:   1 ->  MyAsyncSaving.InProgress: False
+2018-07-30 13:28:29.626 - Thread:   1 ->  Autosave
+2018-07-30 13:28:29.626 - Thread:   1 ->  Saving world - START
+2018-07-30 13:28:29.626 - Thread:   1 ->     Making world state snapshot.
+2018-07-30 13:28:29.626 - Thread:   1 ->     Before snapshot.: GC Memory: 270,053,576 B
+2018-07-30 13:28:29.643 - Thread:   1 ->     After snapshot.: GC Memory: 269,417,000 B
+2018-07-30 13:28:29.643 - Thread:   1 ->     Directory cleanup: GC Memory: 269,417,000 B
+2018-07-30 13:28:29.644 - Thread:   1 ->  Saving world - END
+2018-07-30 13:28:29.644 - Thread:  17 ->  Session snapshot save - START
+2018-07-30 13:28:29.644 - Thread:  17 ->     Checking file access for files in target dir.
+2018-07-30 13:28:35.666 - Thread:  17 ->  Session snapshot save - END
+2018-07-30 13:28:58.523 - Thread:   1 ->  GC Memory: 279,038,296 B
+2018-07-30 13:29:14.155 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:29:14.161 - Thread:   1 ->  STATISTICS,1740.4833333698,0.007119179,0.01581097,1.731434,0.1068983,13.06863,24.89127,12.41302,0.01985375,1,0,267.6467,459.5586,10879,89121,15
+2018-07-30 13:29:28.540 - Thread:   1 ->  GC Memory: 278,541,080 B
+2018-07-30 13:29:58.556 - Thread:   1 ->  GC Memory: 278,870,632 B
+2018-07-30 13:29:59.790 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:30:14.171 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:30:14.173 - Thread:   1 ->  STATISTICS,1800.5,0.006551743,0.01526642,1.731434,0.1068983,13.48638,25.83348,11.00974,0.0314612,1,0,258.1862,459.5586,10879,89121,15
+2018-07-30 13:30:28.573 - Thread:   1 ->  GC Memory: 268,316,256 B
+2018-07-30 13:30:58.590 - Thread:   1 ->  GC Memory: 270,131,488 B
+2018-07-30 13:31:14.188 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:31:14.190 - Thread:   1 ->  STATISTICS,1860.5166666302,0.004601479,0.01095295,1.731434,0.1068983,13.77554,26.68806,10.21923,0.01903584,1,0,256.9146,459.5586,10879,89121,15
+2018-07-30 13:31:28.606 - Thread:   1 ->  GC Memory: 269,500,752 B
+2018-07-30 13:31:55.423 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:31:58.623 - Thread:   1 ->  GC Memory: 272,782,192 B
+2018-07-30 13:32:14.505 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:32:14.505 - Thread:   1 ->  STATISTICS,1920.5333332604,0.00417614,0.01219654,1.731434,0.1068983,14.08793,27.50109,10.56157,0.01400721,1,0,258.8135,459.5586,11029,88971,15
+2018-07-30 13:32:28.640 - Thread:   1 ->  GC Memory: 274,865,296 B
+2018-07-30 13:32:58.656 - Thread:   1 ->  GC Memory: 276,200,024 B
+2018-07-30 13:33:14.521 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:33:14.523 - Thread:   1 ->  STATISTICS,1980.5499998906,0.007090569,0.01567745,1.731434,0.1068983,14.39392,28.33575,9.558413,0.01245044,1,0,265.0616,459.5586,11029,88971,15
+2018-07-30 13:33:28.672 - Thread:   1 ->  GC Memory: 274,626,592 B
+2018-07-30 13:33:29.639 - Thread:   1 ->  Autosave initiated
+2018-07-30 13:33:29.643 - Thread:   1 ->  Character state: True
+2018-07-30 13:33:29.643 - Thread:   1 ->  IsServer: True
+2018-07-30 13:33:29.643 - Thread:   1 ->  MyAsyncSaving.InProgress: False
+2018-07-30 13:33:29.643 - Thread:   1 ->  Autosave
+2018-07-30 13:33:29.643 - Thread:   1 ->  Saving world - START
+2018-07-30 13:33:29.644 - Thread:   1 ->     Making world state snapshot.
+2018-07-30 13:33:29.644 - Thread:   1 ->     Before snapshot.: GC Memory: 275,494,592 B
+2018-07-30 13:33:29.657 - Thread:   1 ->     After snapshot.: GC Memory: 276,838,704 B
+2018-07-30 13:33:29.666 - Thread:   1 ->     Directory cleanup: GC Memory: 276,838,704 B
+2018-07-30 13:33:29.666 - Thread:   1 ->  Saving world - END
+2018-07-30 13:33:29.667 - Thread:  17 ->  Session snapshot save - START
+2018-07-30 13:33:29.667 - Thread:  17 ->     Checking file access for files in target dir.
+2018-07-30 13:33:35.354 - Thread:  17 ->  Session snapshot save - END
+2018-07-30 13:33:58.689 - Thread:   1 ->  GC Memory: 283,001,424 B
+2018-07-30 13:34:14.538 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:34:14.539 - Thread:   1 ->  STATISTICS,2040.5666665208,0.004630089,0.0107069,1.731434,0.1068983,14.69265,29.08715,10.28763,0.01963403,1,0,271.1627,459.5586,11029,88971,15
+2018-07-30 13:34:28.706 - Thread:   1 ->  GC Memory: 284,624,000 B
+2018-07-30 13:34:58.712 - Thread:   1 ->  GC Memory: 284,066,576 B
+2018-07-30 13:35:14.844 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:35:14.844 - Thread:   1 ->  STATISTICS,2100.583333151,0.004175186,0.01359653,1.731434,0.1068983,15.04282,29.92718,12.70464,0.0112345,1,0,270.7475,459.5586,11039,88961,16
+2018-07-30 13:35:18.579 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:35:28.729 - Thread:   1 ->  GC Memory: 284,851,864 B
+2018-07-30 13:35:58.746 - Thread:   1 ->  GC Memory: 284,417,024 B
+2018-07-30 13:36:14.860 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:36:14.862 - Thread:   1 ->  STATISTICS,2160.5999997812,0.007119179,0.0159893,1.731434,0.1068983,15.37192,30.75115,11.04751,0.01339467,1,0,270.4915,459.5586,11039,88961,16
+2018-07-30 13:36:28.762 - Thread:   1 ->  GC Memory: 283,337,528 B
+2018-07-30 13:36:58.779 - Thread:   1 ->  GC Memory: 283,347,176 B
+2018-07-30 13:37:14.877 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:37:14.879 - Thread:   1 ->  STATISTICS,2220.6166664114,0.007274628,0.01604176,1.731434,0.1068983,15.7941,31.68657,10.26212,0.01157806,1,0,269.647,459.5586,11039,88961,16
+2018-07-30 13:37:24.377 - Thread:   1 ->  MyGlobalEvent.RecalculateActivationTime:
+2018-07-30 13:37:24.379 - Thread:   1 ->  Next activation in 00:10:31.2789204
+2018-07-30 13:37:28.795 - Thread:   1 ->  GC Memory: 283,329,992 B
+2018-07-30 13:37:58.812 - Thread:   1 ->  GC Memory: 284,315,248 B
+2018-07-30 13:38:14.894 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:38:14.894 - Thread:   1 ->  STATISTICS,2280.6333330416,0.00713253,0.01518726,1.731434,0.1068983,16.2023,32.59314,12.25154,0.02123533,1,0,270.4002,459.5586,11080,88920,16
+2018-07-30 13:38:28.829 - Thread:   1 ->  GC Memory: 284,151,784 B
+2018-07-30 13:38:29.646 - Thread:   1 ->  Autosave initiated
+2018-07-30 13:38:29.648 - Thread:   1 ->  Character state: True
+2018-07-30 13:38:29.648 - Thread:   1 ->  IsServer: True
+2018-07-30 13:38:29.648 - Thread:   1 ->  MyAsyncSaving.InProgress: False
+2018-07-30 13:38:29.648 - Thread:   1 ->  Autosave
+2018-07-30 13:38:29.649 - Thread:   1 ->  Saving world - START
+2018-07-30 13:38:29.649 - Thread:   1 ->     Making world state snapshot.
+2018-07-30 13:38:29.649 - Thread:   1 ->     Before snapshot.: GC Memory: 284,880,744 B
+2018-07-30 13:38:29.665 - Thread:   1 ->     After snapshot.: GC Memory: 283,848,832 B
+2018-07-30 13:38:29.665 - Thread:   1 ->     Directory cleanup: GC Memory: 283,848,832 B
+2018-07-30 13:38:29.665 - Thread:   1 ->  Saving world - END
+2018-07-30 13:38:29.665 - Thread:  19 ->  Session snapshot save - START
+2018-07-30 13:38:29.666 - Thread:  19 ->     Checking file access for files in target dir.
+2018-07-30 13:38:35.859 - Thread:  19 ->  Session snapshot save - END
+2018-07-30 13:38:58.844 - Thread:   1 ->  GC Memory: 285,754,432 B
+2018-07-30 13:39:16.039 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:39:16.041 - Thread:   1 ->  STATISTICS,2340.65000003647,0.007117271,0.01550579,1.731434,0.1068983,16.61376,33.53294,10.48691,0.02371517,1,0,273.5136,459.5586,11120,88880,16
+2018-07-30 13:39:28.858 - Thread:   1 ->  GC Memory: 286,380,400 B
+2018-07-30 13:39:58.875 - Thread:   1 ->  GC Memory: 286,980,032 B
+2018-07-30 13:40:16.056 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:40:16.058 - Thread:   1 ->  STATISTICS,2400.66666666667,0.007088661,0.01511288,1.731434,0.1068983,17.03668,34.47036,11.8178,0.01222643,1,0,274.1649,459.5586,11120,88880,16
+2018-07-30 13:40:25.675 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:40:28.891 - Thread:   1 ->  GC Memory: 286,247,592 B
+2018-07-30 13:40:37.908 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:40:58.908 - Thread:   1 ->  GC Memory: 288,891,880 B
+2018-07-30 13:41:16.072 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:41:16.074 - Thread:   1 ->  STATISTICS,2460.68333329687,0.006866455,0.01493549,1.731434,0.1068983,17.45514,35.3568,11.23045,0.01377665,1,0,275.2662,459.5586,11080,88920,16
+2018-07-30 13:41:28.925 - Thread:   1 ->  GC Memory: 287,749,168 B
+2018-07-30 13:41:58.941 - Thread:   1 ->  GC Memory: 277,475,768 B
+2018-07-30 13:42:16.089 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:42:16.091 - Thread:   1 ->  STATISTICS,2520.69999992707,0.006784439,0.01480865,1.731434,0.1068983,17.86335,36.24436,11.84707,0.02085039,1,0,264.7849,459.5586,11120,88880,16
+2018-07-30 13:42:28.958 - Thread:   1 ->  GC Memory: 277,617,120 B
+2018-07-30 13:42:58.963 - Thread:   1 ->  GC Memory: 279,095,280 B
+2018-07-30 13:43:16.949 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:43:16.951 - Thread:   1 ->  STATISTICS,2580.71666655726,0.006522179,0.01395607,1.731434,0.1068983,18.26876,37.09805,10.08978,0.008265638,1,0,266.0968,459.5586,11316,88684,16
+2018-07-30 13:43:28.980 - Thread:   1 ->  GC Memory: 278,071,176 B
+2018-07-30 13:43:29.648 - Thread:   1 ->  Autosave initiated
+2018-07-30 13:43:29.649 - Thread:   1 ->  Character state: True
+2018-07-30 13:43:29.650 - Thread:   1 ->  IsServer: True
+2018-07-30 13:43:29.650 - Thread:   1 ->  MyAsyncSaving.InProgress: False
+2018-07-30 13:43:29.650 - Thread:   1 ->  Autosave
+2018-07-30 13:43:29.650 - Thread:   1 ->  Saving world - START
+2018-07-30 13:43:29.651 - Thread:   1 ->     Making world state snapshot.
+2018-07-30 13:43:29.651 - Thread:   1 ->     Before snapshot.: GC Memory: 278,662,640 B
+2018-07-30 13:43:29.662 - Thread:   1 ->     After snapshot.: GC Memory: 280,031,328 B
+2018-07-30 13:43:29.662 - Thread:   1 ->     Directory cleanup: GC Memory: 280,031,328 B
+2018-07-30 13:43:29.662 - Thread:   1 ->  Saving world - END
+2018-07-30 13:43:29.663 - Thread:  18 ->  Session snapshot save - START
+2018-07-30 13:43:29.664 - Thread:  18 ->     Checking file access for files in target dir.
+2018-07-30 13:43:35.256 - Thread:  18 ->  Session snapshot save - END
+2018-07-30 13:43:58.998 - Thread:   1 ->  GC Memory: 287,503,440 B
+2018-07-30 13:44:18.063 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:44:18.065 - Thread:   1 ->  STATISTICS,2640.73333318746,0.007119179,0.01480484,1.731434,0.1068983,18.68216,37.95473,10.15281,0.01108337,1,0,275.7343,459.5586,11816,88184,16
+2018-07-30 13:44:29.015 - Thread:   1 ->  GC Memory: 278,775,384 B
+2018-07-30 13:44:59.032 - Thread:   1 ->  GC Memory: 279,683,224 B
+2018-07-30 13:45:18.921 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:45:18.923 - Thread:   1 ->  STATISTICS,2700.74999981766,0.006658554,0.01388073,1.731434,0.1068983,19.09121,38.79728,13.04924,0.01567506,1,0,266.462,459.5586,11839,88161,16
+2018-07-30 13:45:29.043 - Thread:   1 ->  GC Memory: 279,232,720 B
+2018-07-30 13:45:59.060 - Thread:   1 ->  GC Memory: 278,909,808 B
+2018-07-30 13:45:59.177 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:46:19.225 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:46:19.227 - Thread:   1 ->  STATISTICS,2760.76666644786,0.005325317,0.01390076,1.731434,0.1068983,19.4944,39.63768,11.76259,0.03032305,1,0,268.1584,459.5586,11839,88161,16
+2018-07-30 13:46:29.077 - Thread:   1 ->  GC Memory: 281,429,688 B
+2018-07-30 13:46:59.081 - Thread:   1 ->  GC Memory: 280,202,952 B
+2018-07-30 13:47:20.196 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:47:20.198 - Thread:   1 ->  STATISTICS,2820.78333307806,0.007159233,0.01509666,1.731434,0.1068983,19.90284,40.47794,11.26986,0.009696768,1,0,267.7182,459.5586,11939,88061,16
+2018-07-30 13:47:29.098 - Thread:   1 ->  GC Memory: 282,692,664 B
+2018-07-30 13:47:59.114 - Thread:   1 ->  GC Memory: 282,621,864 B
+2018-07-30 13:48:01.563 - Thread:   1 ->  MyGlobalEvent.RecalculateActivationTime:
+2018-07-30 13:48:01.584 - Thread:   1 ->  Next activation in 00:10:59.2321905
+2018-07-30 13:48:20.213 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:48:20.215 - Thread:   1 ->  STATISTICS,2880.79999970826,0.003259659,0.01074982,1.731434,0.1068983,20.26864,41.28798,10.24168,0.01035927,1,0,269.7016,459.5586,11939,88061,16
+2018-07-30 13:48:29.131 - Thread:   1 ->  GC Memory: 281,040,904 B
+2018-07-30 13:48:29.648 - Thread:   1 ->  Autosave initiated
+2018-07-30 13:48:29.650 - Thread:   1 ->  Character state: True
+2018-07-30 13:48:29.650 - Thread:   1 ->  IsServer: True
+2018-07-30 13:48:29.650 - Thread:   1 ->  MyAsyncSaving.InProgress: False
+2018-07-30 13:48:29.651 - Thread:   1 ->  Autosave
+2018-07-30 13:48:29.651 - Thread:   1 ->  Saving world - START
+2018-07-30 13:48:29.651 - Thread:   1 ->     Making world state snapshot.
+2018-07-30 13:48:29.651 - Thread:   1 ->     Before snapshot.: GC Memory: 281,466,768 B
+2018-07-30 13:48:29.666 - Thread:   1 ->     After snapshot.: GC Memory: 280,659,184 B
+2018-07-30 13:48:29.666 - Thread:   1 ->     Directory cleanup: GC Memory: 280,659,184 B
+2018-07-30 13:48:29.666 - Thread:   1 ->  Saving world - END
+2018-07-30 13:48:29.667 - Thread:  18 ->  Session snapshot save - START
+2018-07-30 13:48:29.667 - Thread:  18 ->     Checking file access for files in target dir.
+2018-07-30 13:48:35.361 - Thread:  18 ->  Session snapshot save - END
+2018-07-30 13:48:58.530 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:48:59.148 - Thread:   1 ->  GC Memory: 290,292,160 B
+2018-07-30 13:49:20.229 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:49:20.231 - Thread:   1 ->  STATISTICS,2940.81666670313,0.006524086,0.01441002,1.731434,0.1068983,20.68913,42.17924,12.36871,0.01648672,1,0,277.3087,459.5586,11939,88061,16
+2018-07-30 13:49:29.164 - Thread:   1 ->  GC Memory: 289,135,928 B
+2018-07-30 13:49:59.180 - Thread:   1 ->  GC Memory: 290,168,304 B
+2018-07-30 13:50:20.246 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:50:20.247 - Thread:   1 ->  STATISTICS,3000.83333333333,0.006755829,0.01436043,1.731434,0.1068983,21.09044,43.01461,12.10655,0.01970526,1,0,276.3488,459.5586,12079,87921,15
+2018-07-30 13:50:29.197 - Thread:   1 ->  GC Memory: 291,581,048 B
+2018-07-30 13:50:59.205 - Thread:   1 ->  GC Memory: 296,547,080 B
+2018-07-30 13:51:18.621 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:51:20.553 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:51:20.555 - Thread:   1 ->  STATISTICS,3060.84999996353,0.006650925,0.01521111,1.731434,0.1068983,21.49369,43.86904,11.65299,0.0125956,1,0,284.0488,459.5586,12103,87897,16
+2018-07-30 13:51:29.222 - Thread:   1 ->  GC Memory: 296,111,096 B
+2018-07-30 13:51:59.238 - Thread:   1 ->  GC Memory: 295,611,712 B
+2018-07-30 13:52:20.569 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:52:20.571 - Thread:   1 ->  STATISTICS,3120.86666659373,0.006660461,0.01486492,1.731434,0.1068983,21.90649,44.74263,13.30668,0.01356034,1,0,283.0925,459.5586,12103,87897,15
+2018-07-30 13:52:29.255 - Thread:   1 ->  GC Memory: 295,463,984 B
+2018-07-30 13:52:59.272 - Thread:   1 ->  GC Memory: 294,915,656 B
+2018-07-30 13:53:20.586 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:53:20.588 - Thread:   1 ->  STATISTICS,3180.88333322393,0.006973267,0.01501274,1.731434,0.1068983,22.30336,45.60503,11.2983,0.01265897,1,0,268.2961,459.5586,12103,87897,15
+2018-07-30 13:53:29.288 - Thread:   1 ->  GC Memory: 282,789,288 B
+2018-07-30 13:53:29.654 - Thread:   1 ->  Autosave initiated
+2018-07-30 13:53:29.656 - Thread:   1 ->  Character state: True
+2018-07-30 13:53:29.656 - Thread:   1 ->  IsServer: True
+2018-07-30 13:53:29.657 - Thread:   1 ->  MyAsyncSaving.InProgress: False
+2018-07-30 13:53:29.657 - Thread:   1 ->  Autosave
+2018-07-30 13:53:29.657 - Thread:   1 ->  Saving world - START
+2018-07-30 13:53:29.657 - Thread:   1 ->     Making world state snapshot.
+2018-07-30 13:53:29.657 - Thread:   1 ->     Before snapshot.: GC Memory: 283,100,504 B
+2018-07-30 13:53:29.669 - Thread:   1 ->     After snapshot.: GC Memory: 284,477,384 B
+2018-07-30 13:53:29.669 - Thread:   1 ->     Directory cleanup: GC Memory: 284,477,384 B
+2018-07-30 13:53:29.669 - Thread:   1 ->  Saving world - END
+2018-07-30 13:53:29.669 - Thread:  18 ->  Session snapshot save - START
+2018-07-30 13:53:29.670 - Thread:  18 ->     Checking file access for files in target dir.
+2018-07-30 13:53:35.901 - Thread:  18 ->  Session snapshot save - END
+2018-07-30 13:53:59.305 - Thread:   1 ->  GC Memory: 294,099,080 B
+2018-07-30 13:54:20.603 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:54:20.603 - Thread:   1 ->  STATISTICS,3240.89999985413,0.00667572,0.01386166,1.731434,0.1068983,22.71112,46.46711,10.81741,0.03113355,1,0,280.9359,459.5586,12103,87897,15
+2018-07-30 13:54:29.321 - Thread:   1 ->  GC Memory: 292,575,600 B
+2018-07-30 13:54:59.337 - Thread:   1 ->  GC Memory: 297,169,104 B
+2018-07-30 13:55:20.619 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:55:20.621 - Thread:   1 ->  STATISTICS,3300.91666648433,0.00677681,0.01439571,1.731434,0.1068983,23.11444,47.31525,11.69515,0.01613579,1,0,281.8753,459.5586,12199,87801,16
+2018-07-30 13:55:29.354 - Thread:   1 ->  GC Memory: 296,958,304 B
+2018-07-30 13:55:59.366 - Thread:   1 ->  GC Memory: 285,465,320 B
+2018-07-30 13:56:21.416 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:56:21.418 - Thread:   1 ->  STATISTICS,3360.93333311453,0.006688118,0.01372814,1.731434,1.602611,25.10563,49.74923,11.63788,0.7912325,1,0,303.4446,459.5586,12541,87459,16
+2018-07-30 13:56:29.368 - Thread:   1 ->  GC Memory: 316,377,816 B
+2018-07-30 13:56:37.602 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:56:59.385 - Thread:   1 ->  GC Memory: 316,895,184 B
+2018-07-30 13:57:21.432 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:57:21.433 - Thread:   1 ->  STATISTICS,3420.94999974473,0.006766319,0.0150795,1.731434,1.602611,25.5148,50.61887,10.72053,0.01220827,1,0,303.6111,459.5586,12556,87444,15
+2018-07-30 13:57:28.434 - Thread:   1 ->  Clusters reordered
+2018-07-30 13:57:29.401 - Thread:   1 ->  GC Memory: 318,878,672 B
+2018-07-30 13:57:59.418 - Thread:   1 ->  GC Memory: 318,694,792 B
+2018-07-30 13:58:21.449 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:58:21.451 - Thread:   1 ->  STATISTICS,3480.96666637493,0.006654739,0.01382828,1.731434,1.602611,25.91801,51.47687,12.59247,0.01254226,1,0,301.7221,459.5586,12556,87444,15
+2018-07-30 13:58:29.435 - Thread:   1 ->  GC Memory: 317,393,848 B
+2018-07-30 13:58:29.668 - Thread:   1 ->  Autosave initiated
+2018-07-30 13:58:29.670 - Thread:   1 ->  Character state: True
+2018-07-30 13:58:29.670 - Thread:   1 ->  IsServer: True
+2018-07-30 13:58:29.670 - Thread:   1 ->  MyAsyncSaving.InProgress: False
+2018-07-30 13:58:29.670 - Thread:   1 ->  Autosave
+2018-07-30 13:58:29.671 - Thread:   1 ->  Saving world - START
+2018-07-30 13:58:29.671 - Thread:   1 ->     Making world state snapshot.
+2018-07-30 13:58:29.671 - Thread:   1 ->     Before snapshot.: GC Memory: 317,606,688 B
+2018-07-30 13:58:29.687 - Thread:   1 ->     After snapshot.: GC Memory: 319,008,144 B
+2018-07-30 13:58:29.687 - Thread:   1 ->     Directory cleanup: GC Memory: 319,008,144 B
+2018-07-30 13:58:29.687 - Thread:   1 ->  Saving world - END
+2018-07-30 13:58:29.688 - Thread:  18 ->  Session snapshot save - START
+2018-07-30 13:58:29.688 - Thread:  18 ->     Checking file access for files in target dir.
+2018-07-30 13:58:37.304 - Thread:  18 ->  Session snapshot save - END
+2018-07-30 13:58:59.451 - Thread:   1 ->  GC Memory: 310,699,432 B
+2018-07-30 13:59:02.666 - Thread:   1 ->  MyGlobalEvent.RecalculateActivationTime:
+2018-07-30 13:59:02.668 - Thread:   1 ->  Next activation in 00:15:28.6477616
+2018-07-30 13:59:21.466 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 13:59:21.468 - Thread:   1 ->  STATISTICS,3540.9833333698,0.006552696,0.01478767,1.731434,1.602611,26.31738,52.32038,12.16891,0.03868554,1,0,298.1122,459.5586,12554,87446,14
+2018-07-30 13:59:29.468 - Thread:   1 ->  GC Memory: 312,756,504 B
+2018-07-30 13:59:59.485 - Thread:   1 ->  GC Memory: 312,524,152 B
+2018-07-30 14:00:21.482 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 14:00:21.483 - Thread:   1 ->  STATISTICS,3601,0.007117271,0.0148735,1.731434,1.602611,26.7263,53.17391,11.39313,0.01150231,1,0,298.3845,459.5586,12554,87446,14
+2018-07-30 14:00:29.500 - Thread:   1 ->  GC Memory: 313,882,984 B
+2018-07-30 14:00:59.517 - Thread:   1 ->  GC Memory: 312,725,184 B
+2018-07-30 14:01:00.468 - Thread:   1 ->  User left Titi
+2018-07-30 14:01:00.921 - Thread:   1 ->  Disconnected: 76561198161615542
+2018-07-30 14:01:09.080 - Thread:   1 ->  Clusters reordered
+2018-07-30 14:01:15.930 - Thread:  10 ->  Peer2Peer_ConnectionFailed 76561198161615542, Timeout
+2018-07-30 14:01:15.948 - Thread:   1 ->  User left ID:76561198161615542
+2018-07-30 14:01:22.012 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 14:01:22.012 - Thread:   1 ->  STATISTICS,3661.0166666302,0,0,1.731434,1.602611,26.97429,53.72212,11.80646,0.02817777,0,0,296.933,459.5586,12554,87446,14
+2018-07-30 14:01:29.530 - Thread:   1 ->  GC Memory: 312,897,400 B
+2018-07-30 14:01:56.315 - Thread:   1 ->  Clusters reordered
+2018-07-30 14:01:59.531 - Thread:   1 ->  GC Memory: 313,637,056 B
+2018-07-30 14:02:22.029 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 14:02:22.029 - Thread:   1 ->  STATISTICS,3721.0333332604,0,0,1.731434,1.602611,26.97429,53.72212,10.88068,0.01457228,0,0,297.7581,459.5586,12554,87446,14
+2018-07-30 14:02:29.547 - Thread:   1 ->  GC Memory: 310,828,712 B
+2018-07-30 14:02:59.548 - Thread:   1 ->  GC Memory: 311,373,456 B
+2018-07-30 14:03:22.045 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 14:03:22.045 - Thread:   1 ->  STATISTICS,3781.0499998906,0,0,1.731434,1.602611,26.97429,53.72212,13.12232,0.01464357,0,0,279.939,459.5586,12554,87446,14
+2018-07-30 14:03:29.565 - Thread:   1 ->  GC Memory: 292,177,680 B
+2018-07-30 14:03:29.681 - Thread:   1 ->  Autosave initiated
+2018-07-30 14:03:29.681 - Thread:   1 ->  Character state: True
+2018-07-30 14:03:29.681 - Thread:   1 ->  IsServer: True
+2018-07-30 14:03:29.681 - Thread:   1 ->  MyAsyncSaving.InProgress: False
+2018-07-30 14:03:29.681 - Thread:   1 ->  Autosave
+2018-07-30 14:03:29.681 - Thread:   1 ->  Saving world - START
+2018-07-30 14:03:29.681 - Thread:   1 ->     Making world state snapshot.
+2018-07-30 14:03:29.681 - Thread:   1 ->     Before snapshot.: GC Memory: 292,243,216 B
+2018-07-30 14:03:29.698 - Thread:   1 ->     After snapshot.: GC Memory: 293,644,672 B
+2018-07-30 14:03:29.698 - Thread:   1 ->     Directory cleanup: GC Memory: 293,644,672 B
+2018-07-30 14:03:29.698 - Thread:   1 ->  Saving world - END
+2018-07-30 14:03:29.698 - Thread:  19 ->  Session snapshot save - START
+2018-07-30 14:03:29.699 - Thread:  19 ->     Checking file access for files in target dir.
+2018-07-30 14:03:30.900 - Thread:  19 ->  Session snapshot save - END
+2018-07-30 14:03:59.581 - Thread:   1 ->  GC Memory: 311,359,080 B
+2018-07-30 14:04:22.062 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 14:04:22.062 - Thread:   1 ->  STATISTICS,3841.0666665208,0,0,1.731434,1.602611,26.97429,53.72212,15.6594,0.01288325,0,0,295.9651,459.5586,12554,87446,14
+2018-07-30 14:04:29.597 - Thread:   1 ->  GC Memory: 311,893,888 B
+2018-07-30 14:04:59.598 - Thread:   1 ->  GC Memory: 294,039,304 B
+2018-07-30 14:05:22.078 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 14:05:22.078 - Thread:   1 ->  STATISTICS,3901.083333151,0,0,1.731434,1.602611,26.97429,53.72212,13.75574,0.01231531,0,0,279.4958,459.5586,12554,87446,14
+2018-07-30 14:05:29.598 - Thread:   1 ->  GC Memory: 291,693,320 B
+2018-07-30 14:05:57.781 - Thread:   1 ->  Clusters reordered
+2018-07-30 14:05:59.614 - Thread:   1 ->  GC Memory: 291,838,944 B
+2018-07-30 14:06:22.095 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 14:06:22.095 - Thread:   1 ->  STATISTICS,3961.0999997812,0,0,1.731434,1.602611,26.97429,53.72212,10.03684,0.02026445,0,0,280.3053,459.5586,12554,87446,14
+2018-07-30 14:06:29.631 - Thread:   1 ->  GC Memory: 292,559,624 B
+2018-07-30 14:06:59.647 - Thread:   1 ->  GC Memory: 292,863,320 B
+2018-07-30 14:07:14.514 - Thread:   1 ->  Clusters reordered
+2018-07-30 14:07:22.112 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 14:07:22.112 - Thread:   1 ->  STATISTICS,4021.1166664114,0,0,1.731434,1.602611,26.97429,53.72212,11.07648,0.02494944,0,0,278.3135,459.5586,12554,87446,14
+2018-07-30 14:07:29.647 - Thread:   1 ->  GC Memory: 293,429,352 B
+2018-07-30 14:07:59.664 - Thread:   1 ->  GC Memory: 293,767,632 B
+2018-07-30 14:08:22.129 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 14:08:22.129 - Thread:   1 ->  STATISTICS,4081.1333330416,0,0,1.731434,1.602611,26.97429,53.72212,13.58838,0.01115977,0,0,279.1906,459.5586,12554,87446,14
+2018-07-30 14:08:29.679 - Thread:   1 ->  GC Memory: 291,376,440 B
+2018-07-30 14:08:29.696 - Thread:   1 ->  Autosave initiated
+2018-07-30 14:08:29.696 - Thread:   1 ->  Character state: True
+2018-07-30 14:08:29.696 - Thread:   1 ->  IsServer: True
+2018-07-30 14:08:29.696 - Thread:   1 ->  MyAsyncSaving.InProgress: False
+2018-07-30 14:08:29.696 - Thread:   1 ->  Autosave
+2018-07-30 14:08:29.696 - Thread:   1 ->  Saving world - START
+2018-07-30 14:08:29.696 - Thread:   1 ->     Making world state snapshot.
+2018-07-30 14:08:29.696 - Thread:   1 ->     Before snapshot.: GC Memory: 291,384,632 B
+2018-07-30 14:08:29.708 - Thread:   1 ->     After snapshot.: GC Memory: 292,794,224 B
+2018-07-30 14:08:29.708 - Thread:   1 ->     Directory cleanup: GC Memory: 292,794,224 B
+2018-07-30 14:08:29.708 - Thread:   1 ->  Saving world - END
+2018-07-30 14:08:29.708 - Thread:  19 ->  Session snapshot save - START
+2018-07-30 14:08:29.709 - Thread:  19 ->     Checking file access for files in target dir.
+2018-07-30 14:08:30.984 - Thread:  19 ->  Session snapshot save - END
+2018-07-30 14:08:59.679 - Thread:   1 ->  GC Memory: 310,204,448 B
+2018-07-30 14:09:22.145 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 14:09:22.145 - Thread:   1 ->  STATISTICS,4141.15000003647,0,0,1.731434,1.602611,26.97429,53.72212,11.37659,0.02210743,0,0,294.8427,459.5586,12554,87446,14
+2018-07-30 14:09:29.680 - Thread:   1 ->  GC Memory: 310,924,896 B
+2018-07-30 14:09:59.680 - Thread:   1 ->  GC Memory: 311,279,568 B
+2018-07-30 14:10:22.161 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 14:10:22.161 - Thread:   1 ->  STATISTICS,4201.16666666667,0,0,1.731434,1.602611,26.97429,53.72212,14.83087,0.02516642,0,0,295.7394,459.5586,12554,87446,14
+2018-07-30 14:10:29.680 - Thread:   1 ->  GC Memory: 311,812,424 B
+2018-07-30 14:10:59.696 - Thread:   1 ->  GC Memory: 312,077,608 B
+2018-07-30 14:11:22.178 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 14:11:22.178 - Thread:   1 ->  STATISTICS,4261.18333329687,0,0,1.731434,1.602611,26.97429,53.72212,10.5969,0.03647337,0,0,296.6504,459.5586,12554,87446,14
+2018-07-30 14:11:29.696 - Thread:   1 ->  GC Memory: 309,700,008 B
+2018-07-30 14:11:59.697 - Thread:   1 ->  GC Memory: 309,867,424 B
+2018-07-30 14:12:22.195 - Thread:   1 ->  STATISTICS LEGEND,time,ReceivedPerSecond,SentPerSecond,PeakReceivedPerSecond,PeakSentPerSecond,OverallReceived,OverallSent,CPULoadSmooth,ThreadLoadSmooth,GetOnlinePlayerCount,Ping,GCMemory,ProcessMemory,PCUBuilt,PCU,GridsCount
+2018-07-30 14:12:22.195 - Thread:   1 ->  STATISTICS,4321.19999992707,0,0,1.731434,1.602611,26.97429,53.72212,9.179944,0.01011248,0,0,297.493,459.5586,12554,87446,14
+2018-07-30 14:12:29.697 - Thread:   1 ->  GC Memory: 310,567,840 B
+2018-07-30 14:12:32.718 - Thread:   1 ->  Clusters reordered
+2018-07-30 14:12:59.714 - Thread:   1 ->  GC Memory: 311,001,144 B
+2018-07-30 14:13:18.098 - Thread:   1 ->  Exiting..
+2018-07-30 14:13:18.113 - Thread:   1 ->  Used namespaces in scripts:
+2018-07-30 14:13:18.121 - Thread:   1 ->  MySession::Unload START
+2018-07-30 14:13:18.122 - Thread:   1 ->  AutoSaveInMinutes: 5
+2018-07-30 14:13:18.122 - Thread:   1 ->  MySandboxGame.IsDedicated: True
+2018-07-30 14:13:18.122 - Thread:   1 ->  IsServer: True
+2018-07-30 14:13:18.122 - Thread:   1 ->  Autosave in unload
+2018-07-30 14:13:18.122 - Thread:   1 ->  Saving world - START
+2018-07-30 14:13:18.122 - Thread:   1 ->     Making world state snapshot.
+2018-07-30 14:13:18.122 - Thread:   1 ->     Before snapshot.: GC Memory: 310,454,848 B
+2018-07-30 14:13:18.133 - Thread:   1 ->     After snapshot.: GC Memory: 311,848,112 B
+2018-07-30 14:13:18.133 - Thread:   1 ->     Directory cleanup: GC Memory: 311,848,112 B
+2018-07-30 14:13:18.133 - Thread:   1 ->  Saving world - END
+2018-07-30 14:13:18.133 - Thread:   1 ->  Session snapshot save - START
+2018-07-30 14:13:18.133 - Thread:   1 ->     Checking file access for files in target dir.
+2018-07-30 14:13:19.387 - Thread:   1 ->  Session snapshot save - END
+2018-07-30 14:13:19.606 - Thread:   1 ->  Unloading Procedural World Generator
+2018-07-30 14:13:19.656 - Thread:   1 ->  Network readers disposed
+2018-07-30 14:13:19.884 - Thread:   1 ->  Network readers disposed
+2018-07-30 14:13:19.886 - Thread:   1 ->  Logging off Steam...
+2018-07-30 14:13:19.887 - Thread:   1 ->  Shutting down server...
+2018-07-30 14:13:20.051 - Thread:   1 ->  Done
+2018-07-30 14:13:20.053 - Thread:   1 ->  MyDefinitionManager.PreloadDefinitions() - START
+2018-07-30 14:13:20.112 - Thread:   1 ->  MyDefinitionManager.PreloadDefinitions() - END
+2018-07-30 14:13:20.227 - Thread:   1 ->  MySession::Unload END
+2018-07-30 14:13:20.230 - Thread:   1 ->  MySandboxGame.UnloadData() - START
+2018-07-30 14:13:20.240 - Thread:   1 ->  MySandboxGame.UnloadData() - END
+2018-07-30 14:13:20.545 - Thread:   1 ->  Steam closed
+2018-07-30 14:13:20.556 - Thread:   1 ->  Log Closed

@@ -1,0 +1,109 @@
+2018-07-29 18:35:32.301 - Thread:   1 ->  Log Started
+2018-07-29 18:35:32.302 - Thread:   1 ->  Timezone (local - UTC): 2h
+2018-07-29 18:35:32.302 - Thread:   1 ->  App Version: 01_187_089
+2018-07-29 18:35:32.302 - Thread:   1 ->  Steam build: Always true
+2018-07-29 18:35:32.302 - Thread:   1 ->  Is official: True [NO][IS][NAMP]
+2018-07-29 18:35:32.302 - Thread:   1 ->  Environment.ProcessorCount: 8
+2018-07-29 18:35:32.414 - Thread:   1 ->  Environment.OSVersion: Microsoft Windows 10 Famille (Microsoft Windows NT 6.2.9200.0)
+2018-07-29 18:35:32.414 - Thread:   1 ->  Environment.CommandLine: "D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\DedicatedServer64\SpaceEngineersDedicated.exe"  -noconsole -ignorelastsession -checkAlive
+2018-07-29 18:35:32.414 - Thread:   1 ->  Environment.Is64BitProcess: True
+2018-07-29 18:35:32.414 - Thread:   1 ->  Environment.Is64BitOperatingSystem: True
+2018-07-29 18:35:32.416 - Thread:   1 ->  Environment.Version: 4.6.2 or later (461308)
+2018-07-29 18:35:32.416 - Thread:   1 ->  Environment.CurrentDirectory: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\DedicatedServer64
+2018-07-29 18:35:33.644 - Thread:   1 ->  CPU Info: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+2018-07-29 18:35:33.644 - Thread:   1 ->  IntPtr.Size: 8
+2018-07-29 18:35:33.644 - Thread:   1 ->  Default Culture: fr-FR
+2018-07-29 18:35:33.644 - Thread:   1 ->  Default UI Culture: fr-FR
+2018-07-29 18:35:33.644 - Thread:   1 ->  IsAdmin: False
+2018-07-29 18:35:33.871 - Thread:   1 ->  MySandboxGame.Constructor() - START
+2018-07-29 18:35:33.874 - Thread:   1 ->     MyScreenManager()
+2018-07-29 18:35:33.874 - Thread:   1 ->     Game dir: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\DedicatedServer64
+2018-07-29 18:35:33.874 - Thread:   1 ->     Content dir: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content
+2018-07-29 18:35:33.875 - Thread:   1 ->     Found processor count: 8
+2018-07-29 18:35:33.875 - Thread:   1 ->     Using processor count: 8
+2018-07-29 18:35:35.292 - Thread:   1 ->     Preallocate - START
+2018-07-29 18:35:35.294 - Thread:   1 ->        MySpaceBuildComponent - START
+2018-07-29 18:35:35.294 - Thread:   1 ->        MySpaceBuildComponent - END
+2018-07-29 18:35:35.294 - Thread:   1 ->        MySpaceWorldGenerator - START
+2018-07-29 18:35:35.307 - Thread:   1 ->        MySpaceWorldGenerator - END
+2018-07-29 18:35:35.308 - Thread:   1 ->        MyEntities - START
+2018-07-29 18:35:35.320 - Thread:   7 ->  MyDefinitionManager.LoadScenarios() - START
+2018-07-29 18:35:35.326 - Thread:   7 ->     cc8b42d526a05973adca2029894f92a894d55acd
+2018-07-29 18:35:35.382 - Thread:   1 ->        MyEntities - END
+2018-07-29 18:35:35.382 - Thread:   1 ->        MyObjectBuilder_Base - START
+2018-07-29 18:35:35.382 - Thread:   1 ->        MyObjectBuilder_Base - END
+2018-07-29 18:35:35.382 - Thread:   1 ->        MyTransparentGeometry - START
+2018-07-29 18:35:35.392 - Thread:   1 ->        MyTransparentGeometry - END
+2018-07-29 18:35:35.392 - Thread:   1 ->        MyCubeGridDeformationTables - START
+2018-07-29 18:35:35.415 - Thread:   1 ->        MyCubeGridDeformationTables - END
+2018-07-29 18:35:35.415 - Thread:   1 ->        MyMath - START
+2018-07-29 18:35:35.415 - Thread:   1 ->        MyMath - END
+2018-07-29 18:35:35.415 - Thread:   1 ->        MySimpleObjectDraw - START
+2018-07-29 18:35:35.418 - Thread:   1 ->        MySimpleObjectDraw - END
+2018-07-29 18:35:35.427 - Thread:   1 ->        MyDefinitionManager - START
+2018-07-29 18:35:35.427 - Thread:   1 ->        MyDefinitionManager - END
+2018-07-29 18:35:35.427 - Thread:   1 ->        MyCubeGridDefinitions - START
+2018-07-29 18:35:35.491 - Thread:   1 ->        MyCubeGridDefinitions - END
+2018-07-29 18:35:35.492 - Thread:   1 ->        MyAIActionsParser - START
+2018-07-29 18:35:35.492 - Thread:   1 ->        MyAIActionsParser - END
+2018-07-29 18:35:35.492 - Thread:   1 ->        MyMultiplayerBase - START
+2018-07-29 18:35:35.492 - Thread:   1 ->        MyMultiplayerBase - END
+2018-07-29 18:35:35.492 - Thread:   1 ->        MyMultiplayerServerBase - START
+2018-07-29 18:35:35.492 - Thread:   1 ->        MyMultiplayerServerBase - END
+2018-07-29 18:35:35.492 - Thread:   1 ->        MyDedicatedServerBase - START
+2018-07-29 18:35:35.492 - Thread:   1 ->        MyDedicatedServerBase - END
+2018-07-29 18:35:35.492 - Thread:   1 ->        MyMultiplayerClientBase - START
+2018-07-29 18:35:35.492 - Thread:   1 ->        MyMultiplayerClientBase - END
+2018-07-29 18:35:35.492 - Thread:   1 ->        MyMultiplayerLobbyClient - START
+2018-07-29 18:35:35.492 - Thread:   1 ->        MyMultiplayerLobbyClient - END
+2018-07-29 18:35:35.492 - Thread:   1 ->        MyServerDebugCommands - START
+2018-07-29 18:35:35.519 - Thread:   1 ->        MyServerDebugCommands - END
+2018-07-29 18:35:35.519 - Thread:   1 ->        MyClientDebugCommands - START
+2018-07-29 18:35:35.520 - Thread:   1 ->        MyClientDebugCommands - END
+2018-07-29 18:35:35.520 - Thread:   1 ->        MyMultiplayerClient - START
+2018-07-29 18:35:35.520 - Thread:   1 ->        MyMultiplayerClient - END
+2018-07-29 18:35:35.520 - Thread:   1 ->        MyMultiplayerLobby - START
+2018-07-29 18:35:35.520 - Thread:   1 ->        MyMultiplayerLobby - END
+2018-07-29 18:35:35.520 - Thread:   1 ->        MyDedicatedServer - START
+2018-07-29 18:35:35.520 - Thread:   1 ->        MyDedicatedServer - END
+2018-07-29 18:35:35.520 - Thread:   1 ->        MyAiTargetManager - START
+2018-07-29 18:35:35.520 - Thread:   1 ->        MyAiTargetManager - END
+2018-07-29 18:35:35.520 - Thread:   1 ->        MyGuiScreenAdminMenu - START
+2018-07-29 18:35:35.522 - Thread:   1 ->        MyGuiScreenAdminMenu - END
+2018-07-29 18:35:35.522 - Thread:   1 ->        MyEntityComponentsDebugDraw - START
+2018-07-29 18:35:35.522 - Thread:   1 ->        MyEntityComponentsDebugDraw - END
+2018-07-29 18:35:35.522 - Thread:   1 ->        MyChatHistory - START
+2018-07-29 18:35:35.522 - Thread:   1 ->        MyChatHistory - END
+2018-07-29 18:35:35.522 - Thread:   1 ->        MySyncDestructions - START
+2018-07-29 18:35:35.522 - Thread:   1 ->        MySyncDestructions - END
+2018-07-29 18:35:35.522 - Thread:   1 ->        MyGuiIngameScriptsPage - START
+2018-07-29 18:35:35.564 - Thread:   1 ->        MyGuiIngameScriptsPage - END
+2018-07-29 18:35:35.564 - Thread:   1 ->        MyCommandCharacter - START
+2018-07-29 18:35:35.567 - Thread:   1 ->        MyCommandCharacter - END
+2018-07-29 18:35:35.567 - Thread:   1 ->        MyCommandConsole - START
+2018-07-29 18:35:35.568 - Thread:   1 ->        MyCommandConsole - END
+2018-07-29 18:35:35.568 - Thread:   1 ->        MyCommandEntity - START
+2018-07-29 18:35:35.571 - Thread:   1 ->        MyCommandEntity - END
+2018-07-29 18:35:35.571 - Thread:   1 ->        MySyncScenario - START
+2018-07-29 18:35:35.571 - Thread:   1 ->        MySyncScenario - END
+2018-07-29 18:35:35.571 - Thread:   1 ->        MySyncEntity - START
+2018-07-29 18:35:35.571 - Thread:   1 ->        MySyncEntity - END
+2018-07-29 18:35:35.574 - Thread:   1 ->     Preallocate - END
+2018-07-29 18:35:35.578 - Thread:   1 ->     Bind IP : 81.254.100.123:27016
+2018-07-29 18:35:35.921 - Thread:   7 ->     Loading scenarios
+2018-07-29 18:35:35.970 - Thread:   7 ->  MyDefinitionManager.LoadScenarios() - END
+2018-07-29 18:35:39.768 - Thread:   1 ->     Error binding server endpoint: L’adresse demandée n’est pas valide dans son contexte
+2018-07-29 18:35:49.919 - Thread:   1 ->     Error: No IP assigned.
+2018-07-29 18:35:49.932 - Thread:   1 ->     MyCampaignManager.Constructor() - START
+2018-07-29 18:35:50.035 - Thread:   1 ->     MyCampaignManager.Constructor() - END
+2018-07-29 18:35:50.035 - Thread:   1 ->  MySandboxGame.Constructor() - END
+2018-07-29 18:35:50.035 - Thread:   1 ->  Server Name: Mika
+2018-07-29 18:35:50.035 - Thread:   1 ->  World Name: Atlantis
+2018-07-29 18:35:50.085 - Thread:  24 ->  Remote API unable to start. Run dedicated server in administrator mode or use AllowRemoteHttp.bat file.
+2018-07-29 18:35:50.203 - Thread:   1 ->  Auto Restart Enabled
+2018-07-29 18:35:51.341 - Thread:   1 ->  Network readers disposed
+2018-07-29 18:35:51.343 - Thread:   1 ->  Logging off Steam...
+2018-07-29 18:35:51.343 - Thread:   1 ->  Shutting down server...
+2018-07-29 18:35:51.344 - Thread:   1 ->  Done
+2018-07-29 18:35:51.351 - Thread:   1 ->  Steam closed
+2018-07-29 18:35:51.366 - Thread:   1 ->  Log Closed

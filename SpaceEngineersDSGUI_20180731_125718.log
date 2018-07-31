@@ -1,0 +1,61 @@
+2018-07-31 12:57:18.692 - Thread:   1 ->  Log Started
+2018-07-31 12:57:18.693 - Thread:   1 ->  Timezone (local - UTC): 2h
+2018-07-31 12:57:18.693 - Thread:   1 ->  App Version: 01_187_089
+2018-07-31 12:57:18.693 - Thread:   1 ->  Space Engineers DS GUI Started
+2018-07-31 12:57:18.694 - Thread:   1 ->  Is Service DS: False
+2018-07-31 12:57:19.521 - Thread:   8 ->  Loading available saves - START
+2018-07-31 12:57:19.521 - Thread:   5 ->  Loading available saves - START
+2018-07-31 12:57:19.542 - Thread:   5 ->     GetWorldInfoFromDirectory (Exists: True) 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves'
+2018-07-31 12:57:19.547 - Thread:   8 ->     GetWorldInfoFromDirectory (Exists: True) 'D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds'
+2018-07-31 12:57:19.600 - Thread:   5 ->  Loading available saves - END
+2018-07-31 12:57:19.618 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - START
+2018-07-31 12:57:19.719 - Thread:   1 ->     cc8b42d526a05973adca2029894f92a894d55acd
+2018-07-31 12:57:19.913 - Thread:   8 ->  Loading available saves - END
+2018-07-31 12:57:20.469 - Thread:   1 ->     Loading scenarios
+2018-07-31 12:57:20.526 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - END
+2018-07-31 12:57:23.646 - Thread:   1 ->  Start Console
+2018-07-31 12:57:23.646 - Thread:   1 ->  Command Line: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\DedicatedServer64\SpaceEngineersDedicated.exe
+2018-07-31 12:57:23.646 - Thread:   1 ->  Arguments:  -noconsole -ignorelastsession -checkAlive
+2018-07-31 13:44:58.728 - Thread:   1 ->  Stop Server
+2018-07-31 13:45:25.741 - Thread:   1 ->  Server Stopped
+2018-07-31 13:45:25.790 - Thread:  12 ->  Loading available saves - START
+2018-07-31 13:45:25.790 - Thread:   6 ->  Loading available saves - START
+2018-07-31 13:45:25.792 - Thread:   6 ->     GetWorldInfoFromDirectory (Exists: True) 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves'
+2018-07-31 13:45:25.793 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - START
+2018-07-31 13:45:25.794 - Thread:   6 ->  Loading available saves - END
+2018-07-31 13:45:25.836 - Thread:  12 ->     GetWorldInfoFromDirectory (Exists: True) 'D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds'
+2018-07-31 13:45:25.876 - Thread:   1 ->     cc8b42d526a05973adca2029894f92a894d55acd
+2018-07-31 13:45:26.021 - Thread:  12 ->  Loading available saves - END
+2018-07-31 13:45:26.059 - Thread:   1 ->     Loading scenarios
+2018-07-31 13:45:26.061 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - END
+2018-07-31 13:46:44.158 - Thread:   1 ->  Start Console
+2018-07-31 13:46:44.158 - Thread:   1 ->  Command Line: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\DedicatedServer64\SpaceEngineersDedicated.exe
+2018-07-31 13:46:44.158 - Thread:   1 ->  Arguments:  -noconsole -ignorelastsession -checkAlive
+2018-07-31 13:47:00.148 - Thread:   1 ->  Stop Server
+2018-07-31 13:47:18.942 - Thread:   1 ->  Server Stopped
+2018-07-31 13:47:18.960 - Thread:  10 ->  Loading available saves - START
+2018-07-31 13:47:18.960 - Thread:   5 ->  Loading available saves - START
+2018-07-31 13:47:18.960 - Thread:  10 ->     GetWorldInfoFromDirectory (Exists: True) 'D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds'
+2018-07-31 13:47:18.960 - Thread:   5 ->     GetWorldInfoFromDirectory (Exists: True) 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves'
+2018-07-31 13:47:18.962 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - START
+2018-07-31 13:47:18.962 - Thread:   5 ->  Loading available saves - END
+2018-07-31 13:47:18.964 - Thread:   1 ->     cc8b42d526a05973adca2029894f92a894d55acd
+2018-07-31 13:47:18.984 - Thread:  10 ->  Loading available saves - END
+2018-07-31 13:47:19.173 - Thread:   1 ->     Loading scenarios
+2018-07-31 13:47:19.173 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - END
+2018-07-31 13:47:26.831 - Thread:   1 ->  Start Console
+2018-07-31 13:47:26.831 - Thread:   1 ->  Command Line: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\DedicatedServer64\SpaceEngineersDedicated.exe
+2018-07-31 13:47:26.831 - Thread:   1 ->  Arguments:  -noconsole -ignorelastsession -checkAlive
+2018-07-31 13:58:13.562 - Thread:   1 ->  Stop Server
+2018-07-31 13:58:30.618 - Thread:   1 ->  Server Stopped
+2018-07-31 13:58:30.631 - Thread:  12 ->  Loading available saves - START
+2018-07-31 13:58:30.631 - Thread:  11 ->  Loading available saves - START
+2018-07-31 13:58:30.632 - Thread:  12 ->     GetWorldInfoFromDirectory (Exists: True) 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves'
+2018-07-31 13:58:30.632 - Thread:  11 ->     GetWorldInfoFromDirectory (Exists: True) 'D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds'
+2018-07-31 13:58:30.634 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - START
+2018-07-31 13:58:30.635 - Thread:  12 ->  Loading available saves - END
+2018-07-31 13:58:30.707 - Thread:   1 ->     cc8b42d526a05973adca2029894f92a894d55acd
+2018-07-31 13:58:30.853 - Thread:  11 ->  Loading available saves - END
+2018-07-31 13:58:30.873 - Thread:   1 ->     Loading scenarios
+2018-07-31 13:58:30.873 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - END
+2018-07-31 14:02:50.648 - Thread:   1 ->  Log Closed
