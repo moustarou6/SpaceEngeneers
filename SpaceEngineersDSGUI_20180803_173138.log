@@ -1,0 +1,46 @@
+2018-08-03 17:31:38.714 - Thread:   1 ->  Log Started
+2018-08-03 17:31:38.715 - Thread:   1 ->  Timezone (local - UTC): 2h
+2018-08-03 17:31:38.715 - Thread:   1 ->  App Version: 01_187_089
+2018-08-03 17:31:38.716 - Thread:   1 ->  Space Engineers DS GUI Started
+2018-08-03 17:31:38.716 - Thread:   1 ->  Is Service DS: False
+2018-08-03 17:31:39.792 - Thread:   6 ->  Loading available saves - START
+2018-08-03 17:31:39.792 - Thread:   7 ->  Loading available saves - START
+2018-08-03 17:31:39.815 - Thread:   6 ->     GetWorldInfoFromDirectory (Exists: True) 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves'
+2018-08-03 17:31:39.830 - Thread:   7 ->     GetWorldInfoFromDirectory (Exists: True) 'D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds'
+2018-08-03 17:31:39.912 - Thread:   6 ->  Loading available saves - END
+2018-08-03 17:31:39.937 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - START
+2018-08-03 17:31:39.988 - Thread:   1 ->     cc8b42d526a05973adca2029894f92a894d55acd
+2018-08-03 17:31:40.200 - Thread:   7 ->  Loading available saves - END
+2018-08-03 17:31:41.010 - Thread:   1 ->     Loading scenarios
+2018-08-03 17:31:41.116 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - END
+2018-08-03 17:31:44.422 - Thread:   1 ->  Start Console
+2018-08-03 17:31:44.422 - Thread:   1 ->  Command Line: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\DedicatedServer64\SpaceEngineersDedicated.exe
+2018-08-03 17:31:44.422 - Thread:   1 ->  Arguments:  -noconsole -ignorelastsession -checkAlive
+2018-08-03 22:26:11.824 - Thread:   1 ->  Stop Server
+2018-08-03 22:26:35.310 - Thread:   1 ->  Server Stopped
+2018-08-03 22:26:35.332 - Thread:  11 ->  Loading available saves - START
+2018-08-03 22:26:35.334 - Thread:  10 ->  Loading available saves - START
+2018-08-03 22:26:35.334 - Thread:  11 ->     GetWorldInfoFromDirectory (Exists: True) 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves'
+2018-08-03 22:26:35.339 - Thread:  11 ->  Loading available saves - END
+2018-08-03 22:26:35.340 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - START
+2018-08-03 22:26:35.354 - Thread:  10 ->     GetWorldInfoFromDirectory (Exists: True) 'D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds'
+2018-08-03 22:26:35.395 - Thread:   1 ->     cc8b42d526a05973adca2029894f92a894d55acd
+2018-08-03 22:26:35.538 - Thread:  10 ->  Loading available saves - END
+2018-08-03 22:26:35.580 - Thread:   1 ->     Loading scenarios
+2018-08-03 22:26:35.584 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - END
+2018-08-04 09:17:11.724 - Thread:   1 ->  Start Console
+2018-08-04 09:17:11.724 - Thread:   1 ->  Command Line: D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\DedicatedServer64\SpaceEngineersDedicated.exe
+2018-08-04 09:17:11.724 - Thread:   1 ->  Arguments:  -noconsole -ignorelastsession -checkAlive
+2018-08-04 09:54:56.746 - Thread:   1 ->  Stop Server
+2018-08-04 09:55:04.793 - Thread:   1 ->  Server Stopped
+2018-08-04 09:55:04.812 - Thread:  12 ->  Loading available saves - START
+2018-08-04 09:55:04.813 - Thread:   6 ->  Loading available saves - START
+2018-08-04 09:55:04.815 - Thread:  12 ->     GetWorldInfoFromDirectory (Exists: True) 'D:\Program Files (x86)\Steam\steamapps\common\SpaceEngineersDedicatedServer\Content\CustomWorlds'
+2018-08-04 09:55:04.815 - Thread:   6 ->     GetWorldInfoFromDirectory (Exists: True) 'C:\Users\Hamour\AppData\Roaming\SpaceEngineersDedicated\Saves'
+2018-08-04 09:55:04.818 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - START
+2018-08-04 09:55:04.819 - Thread:   6 ->  Loading available saves - END
+2018-08-04 09:55:04.898 - Thread:   1 ->     cc8b42d526a05973adca2029894f92a894d55acd
+2018-08-04 09:55:05.143 - Thread:  12 ->  Loading available saves - END
+2018-08-04 09:55:05.206 - Thread:   1 ->     Loading scenarios
+2018-08-04 09:55:05.206 - Thread:   1 ->  MyDefinitionManager.LoadScenarios() - END
+2018-08-06 10:09:02.008 - Thread:   1 ->  Log Closed
